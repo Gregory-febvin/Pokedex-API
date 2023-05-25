@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="static/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="static/css/custom.css" />
+    <title>Pokedex</title>
+    <link rel="icon" type="image/x-icon" href="../static/images/Pokedex_icon.svg">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div id="pokedex">
+        <h1>Pokedex</h1>
+        <input type="text" class="search-input" placeholder="Rechercher un Pokémon">
+        <div class="box">
+            {% for i in pokemons[:649] %}
+            <div class="pokemons_">
+                <a href="/pokeInfo2/{{i['id']}}"> <img class="image" src="Https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/{{i['id']}}.svg"></a>
+                <div class="name_pokedex"><h4>{{i['name']['fr']}}</h4></div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <script>
+        $(document).ready(function() {
+            function searchPokemon() {
+                var input = $(this).val().toLowerCase();
+                $(".pokemons_").each(function() {
+                    var pokemonName = $(this).find("h4").text().toLowerCase();
+                    $(this).toggle(pokemonName.indexOf(input) > -1);
+                });
+            }
+
+            $(".search-input").on("input", searchPokemon);
+        });
+    </script>
+</body>
+</html>

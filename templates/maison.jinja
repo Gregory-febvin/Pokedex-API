@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="static/css/maison.css" />
+</head>
+<body>
+    <div class="house">
+        <div class="etage">
+            <div class="interieur_piece">
+                <img src="../static/images/lit.png" id="Chambre" class="img_salle">
+                <div id="myModalChambre" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <p id="modal-room" class="modal-room"></p>
+                        <button class="toggle-btn">
+                            <span class="toggle-btn__bar"></span>
+                        </button>
+                    </div>
+                </div>
+                <img src="../static/images/ampoule.png" class="lumiere Chambre">
+            </div>
+            <div class="interieur_piece">
+                <img src="../static/images/douche.jpg" id="Bain" class="img_salle">
+                <div id="myModalBain" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <p id="modal-room" class="modal-room"></p>
+                        <button class="toggle-btn">
+                            <span class="toggle-btn__bar"></span>
+                        </button>
+                    </div>
+                </div>
+                <img src="../static/images/ampoule.png" class="lumiere Bain">
+            </div>
+        </div>
+        <div class="rdc">
+            <div class="interieur_piece">
+                <img src="../static/images/cuisinne.png" id="Cuisinne" class="img_salle">
+                <div id="myModalCuisinne" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <p id="modal-room" class="modal-room"></p>
+                        <button class="toggle-btn">
+                            <span class="toggle-btn__bar"></span>
+                        </button>
+                    </div>
+                </div>
+                <img src="../static/images/ampoule.png" class="lumiere Cuisinne">
+            </div>
+            <div class="interieur_piece">
+                <img src="../static/images/salon.png" id="Salon" class="img_salle">
+                <div id="myModalSalon" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <p id="modal-room" class="modal-room"></p>
+                        <button class="toggle-btn">
+                            <span class="toggle-btn__bar"></span>
+                        </button>
+                    </div>
+                </div>
+                <img src="../static/images/ampoule.png" class="lumiere Salon">
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Obtient les boîtes de dialogue modales
+        var modals = {
+            Chambre: document.getElementById("myModalChambre"),
+            Bain: document.getElementById("myModalBain"),
+            Cuisinne: document.getElementById("myModalCuisinne"),
+            Salon: document.getElementById("myModalSalon")
+        };
+
+        // Obtient les boutons de levier à l'intérieur des modales
+        var toggleBtns = document.querySelectorAll(".modal .toggle-btn");
+
+        // Obtient les éléments <span> qui permettent de fermer les boîtes de dialogue modales
+        var spans = document.querySelectorAll(".close");
+
+        // Ajoute un gestionnaire d'événements click à chaque bouton de levier
+        toggleBtns.forEach(function(btn) {
+            btn.addEventListener("click", function(event) {
+                event.stopPropagation(); // Empêche la propagation de l'événement au niveau des images
+
+                // Ajoute ou supprime la classe "active" au bouton de levier
+                btn.classList.toggle("active");
+
+                var id_ampoule_div = btn.parentElement.parentElement.querySelector(".modal-room");
+                var id_ampoule = id_ampoule_div.textContent;
+                var ampoule = document.querySelector(".lumiere." + id_ampoule);
+
+                if (btn.classList.contains("active")) {
+                    ampoule.setAttribute("src", "../static/images/ampoule-on.png");
+                } else {
+                    ampoule.setAttribute("src", "../static/images/ampoule.png");
+                }
+            });
+        });
+
+        // Ajoute un gestionnaire d'événements click à chaque élément <span>
+        spans.forEach(function(span) {
+            span.onclick = function() {
+                // Ferme la boîte de dialogue modale parente
+                var modal = this.parentElement.parentElement;
+                modal.style.display = "none";
+            };
+        });
+
+        // Ajoute un gestionnaire d'événement click à chaque élément d'image
+        var images = document.querySelectorAll("img.img_salle");
+        images.forEach(function(image) {
+            image.addEventListener("click", function(event) {
+                // Obtient l'ID de l'image cliquée
+                var id = this.id;
+
+                // Met à jour le contenu de la boîte de dialogue modale avec l'ID de l'image cliquée
+                var modalText = modals[id].querySelector(".modal-room");
+                modalText.innerHTML = id;
+
+                // Ouvre la boîte de dialogue modale correspondante
+                modals[id].style.display = "block";
+            });
+        });
+
+        // Lorsque l'utilisateur clique n'importe où en dehors des boîtes de dialogue modales, les ferme
+        window.onclick = function(event) {
+            modals.forEach(function(modal) {
+                if (event.target == modal) {
+                    modal.style.display = "none";
+                }
+            });
+        };
+    </script>
+</body>
+</html>

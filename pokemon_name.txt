@@ -1,0 +1,2591 @@
+#: app.py:34
+msgid "While it is young, it uses the nutrients that are stored in the seed on its back in order to grow."
+msgstr "Quand il est jeune, il absorbe les nutriments conservés dans son dos pour grandir et se développer."
+
+#: app.py:34
+msgid "Exposure to sunlight adds to its strength. Sunlight also makes the bud on its back grow larger."
+msgstr "La lumière du soleil le rend plus fort et vigoureux. Le bulbe sur son dos grossit en conséquence."
+
+#: app.py:34
+msgid "A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle."
+msgstr "Une douce senteur émane de sa plante. Cette fragrance calme tous ceux qui sont engagés dans un combat."
+
+#: app.py:34
+msgid "From the time it is born, a flame burns at the tip of its tail. Its life would end if the flame were to go out."
+msgstr "Depuis sa naissance, une petite flamme brûle au bout de sa queue. Si cette flamme s’éteint, la vie de ce Pokémon s’éteindra elle aussi."
+
+#: app.py:34
+msgid "If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings."
+msgstr "S’il s’excite pendant un combat, il crache de grandes flammes, brûlant tout ce qui se trouve aux alentours."
+
+#: app.py:34
+msgid "Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures."
+msgstr "Ses ailes lui permettent de voler à plus de 1 400 m d’altitude. Ce Pokémon crache du feu à des températures très élevées."
+
+#: app.py:34
+msgid "When it feels threatened, it draws its limbs inside its shell and sprays water from its mouth."
+msgstr "S’il se sent menacé, il rétracte ses pattes dans sa carapace pour se protéger et crache de l’eau."
+
+#: app.py:34
+msgid "It cleverly controls its furry ears and tail to maintain its balance while swimming."
+msgstr "Il se sert habilement de sa queue et de ses oreilles touffues pour garder son équilibre sous l’eau."
+
+#: app.py:34
+msgid "The rocket cannons on its shell fire jets of water capable of punching holes through thick steel."
+msgstr "Les canons sur sa carapace tirent des jets d’eau capables de percer même de l’acier trempé."
+
+#: app.py:34
+msgid "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+msgstr "Ses petites pattes munies de ventouses lui permettent de monter les pentes et de grimper aux murs sans se fatiguer."
+
+#: app.py:34
+msgid "Even though it is encased in a sturdy shell, the body inside is tender. It can’t withstand a harsh attack."
+msgstr "Bien que son corps soit entouré d’une carapace solide, l’intérieur est si mou qu’il ne résisterait pas à une attaque violente."
+
+#: app.py:34
+msgid "It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest."
+msgstr "Il ramasse du nectar chaque jour et l’agglutine sur les poils de ses pattes pour le transporter jusqu’à son nid."
+
+#: app.py:34
+msgid "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves."
+msgstr "L’aiguillon sur son front est très pointu. Il se cache dans les bois et les hautes herbes, où il se gave de feuilles."
+
+#: app.py:34
+msgid "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy."
+msgstr "Il peut à peine bouger. Quand il est menacé, il sort parfois son aiguillon pour empoisonner ses ennemis."
+
+#: app.py:34
+msgid "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly."
+msgstr "Il se sert de ses trois aiguillons empoisonnés situés sur les pattes avant et l’abdomen pour attaquer sans relâche ses adversaires."
+
+#: app.py:34
+msgid "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back."
+msgstr "De nature très docile, il préfère projeter du sable pour se défendre plutôt que contre-attaquer."
+
+#: app.py:34
+msgid "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey."
+msgstr "Ce Pokémon est très endurant. Il survole en permanence son territoire pour chasser."
+
+#: app.py:34
+msgid "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons."
+msgstr "Ce Pokémon vole à Mach 2 quand il chasse. Ses grandes serres sont des armes redoutables."
+
+#: app.py:34
+msgid "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area."
+msgstr "Il peut ronger n’importe quoi avec ses deux dents. Quand on en voit un, il y en a certainement 40 dans le coin."
+
+#: app.py:34
+msgid "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey."
+msgstr "Ses pattes arrière sont palmées. Il peut donc poursuivre sa proie dans les cours d’eau et les rivières."
+
+#: app.py:34
+msgid "Inept at flying high. However, it can fly around very fast to protect its territory."
+msgstr "Il est incapable de voler à haute altitude. Il se déplace très vite pour protéger son territoire."
+
+#: app.py:34
+msgid "A Pokémon that dates back many years. If it senses danger, it flies high and away, instantly."
+msgstr "Un Pokémon très ancien. S’il perçoit un danger, il fuit instantanément à haute altitude."
+
+#: app.py:34
+msgid "The older it gets, the longer it grows. At night, it wraps its long body around tree branches to rest."
+msgstr "Plus il est âgé, plus son corps est long. La nuit, il s’enroule autour de branches d’arbres pour se reposer."
+
+#: app.py:34
+msgid "The frightening patterns on its belly have been studied. Six variations have been confirmed."
+msgstr "Des études ont révélé que les marques effrayantes de son corps pouvaient former six motifs différents."
+
+#: app.py:34
+msgid "Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them."
+msgstr "Les Pikachu se disent bonjour en se frottant la queue et en y faisant passer du courant électrique."
+
+#: app.py:34
+msgid "It can discharge bursts of electricity exceeding 100,000 volts— a single strike with that amount of power would incapacitate one of the Copperajah of my homeland."
+msgstr "Si ses joues sont à court d’énergie, il lève la queue et capte l’électricité contenue dans l’atmosphère."
+
+#: app.py:34
+msgid "It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to shatter them and then carries on digging."
+msgstr "Il creuse le sol pour construire sa tanière. Rien n’arrête ses griffes acérées, pas même la roche la plus solide."
+
+#: app.py:34
+msgid "It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree."
+msgstr "Il grimpe aux arbres grâce à ses griffes acérées et fait tomber des Baies pour les Sabelette qui attendent au sol."
+
+#: app.py:34
+msgid "It uses its hard incisor teeth to crush and eat berries. The tip of a female Nidoran’s horn is a bit more rounded than the tip of a male’s horn."
+msgstr "Ce Pokémon se nourrit de Baies en les ouvrant avec ses incisives. Le bout de sa corne est plus arrondi que celui du mâle."
+
+#: app.py:34
+msgid "If the group is threatened, these Pokémon will band together to assault enemies with a chorus of ultrasonic waves."
+msgstr "Si un danger menace le groupe, ces Pokémon se réunissent et l’affrontent en émettant des ultrasons en chœur."
+
+#: app.py:34
+msgid "It pacifies offspring by placing them in the gaps between the spines on its back. The spines will never secrete poison while young are present."
+msgstr "Ce Pokémon calme les petits de son espèce en les plaçant entre ses épines dorsales. Dans ce cas, elles ne libèrent pas de poison."
+
+#: app.py:34
+msgid "Small but brave, this Pokémon will hold its ground and even risk its life in battle to protect the female it’s friendly with."
+msgstr "Malgré sa petite taille, il est très téméraire. Afin de protéger sa compagne, il est prêt à se battre et à risquer sa vie."
+
+#: app.py:34
+msgid "It’s nervous and quick to act aggressively. The potency of its poison increases along with the level of adrenaline present in its body."
+msgstr "D’un naturel nerveux, il est prompt à se battre. Lorsqu’il a une montée d’adrénaline, la concentration de son poison augmente."
+
+#: app.py:34
+msgid "Nidoking prides itself on its strength. It’s forceful and spirited in battle, making use of its thick tail and diamond-crushing horn."
+msgstr "Très fier de sa force, il se bat vigoureusement à l’aide de sa queue robuste et de sa corne capable de briser le diamant."
+
+#: app.py:34
+msgid "It can be found in quiet mountain areas on a full moon's night. Its dancing and its tiny, faintly glowing wings confer upon it a lovely fairylike quality."
+msgstr "Son comportement et son cri adorables font de lui un Pokémon très populaire. Malheureusement, il est difficile d’en croiser un spécimen."
+
+#: app.py:34
+msgid "Legend says that on clear, quiet nights, it listens for the voices of its kin living on the moon. I, too, often think of my homeland, so far away."
+msgstr "Capable d’entendre une aiguille tomber à plus d’un kilomètre, ce Pokémon préfère les endroits calmes et isolés."
+
+#: app.py:34
+msgid "In its belly burns a fire, which Vulpix spits out in the form of fireballs. When young, this Pokémon has but one white tail. As the Pokémon matures, this single tail splits into six."
+msgstr "Avec l’âge, la fourrure de ses six queues devient de plus en plus belle et soyeuse. Elle est chaude au toucher."
+
+#: app.py:34
+msgid "The coat of gleaming golden fur is quite magnificent. This species is said to store sacred power in its nine long tails and to live for a millennium."
+msgstr "Il est très intelligent et rancunier. Quiconque attrape une de ses queues se fera maudire pour 1 000 ans."
+
+#: app.py:34
+msgid "By freely changing the wavelength of its voice, Jigglypuff sings a mysterious melody sure to make any listener sleepy."
+msgstr "Il module librement la longueur d’onde de sa voix pour chanter une étrange mélodie qui endort à tous les coups celui qui l’écoute."
+
+#: app.py:34
+msgid "It’s proud of its fur, which is fine and delicate. In particular, the curl on its forehead has a texture that’s perfectly heavenly."
+msgstr "Sa fourrure soyeuse fait sa fierté. La touffe sur son front est si douce que la caresser donne l’impression d’être sur un petit nuage."
+
+#: app.py:34
+msgid "Makes its home in gloomy caves. Atrophied eyes have left this Pokémon blind, so it scans its surroundings via sound waves that it emits from its mouth as it flies."
+msgstr "Ils vivent dans les grottes où la lumière du jour ne perce jamais. Le matin, ils se blottissent les uns contre les autres pour se réchauffer et dormir."
+
+#: app.py:34
+msgid "It sinks its sharp fangs into other creatures and slurps up their blood. A closer look at the fangs reveals that they are hollow and akin to straws."
+msgstr "Il se déplace habilement sur ses petites pattes, s’approche silencieusement de sa proie endormie, et lui suce le sang à l’aide de ses crocs."
+
+#: app.py:34
+msgid "During the day, it stays in the cold underground to avoid the sun. It grows by bathing in moonlight."
+msgstr "Pendant la journée, il reste en sous-sol et évite le soleil. Il grandit en se baignant au clair de lune."
+
+#: app.py:34
+msgid "What appears to be drool is actually sweet honey. It is very sticky and clings stubbornly if touched."
+msgstr "Ce qui semble être sa bave est en fait du nectar très collant. Si on le touche, il est très difficile de s’en dépêtrer."
+
+#: app.py:34
+msgid "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+msgstr "Plus ses pétales sont grands, plus il produit de pollen toxique. Toutefois, le poids de sa tête le fatigue."
+
+#: app.py:34
+msgid "Sometimes seen at the foot of trees in humid forests. The mushrooms on its back—called tochukaso—are not present on infant specimens and instead emerge as Paras matures."
+msgstr "Il s’enfouit pour ronger des racines, mais ce sont les champignons sur son dos qui absorbent presque tous les nutriments."
+
+#: app.py:34
+msgid "Mushroom-lacking specimens of this Pokémon lie unmoving in the forest, lending credence to the hypothesis that the large mushroom is in control of Parasect's actions."
+msgstr "À force de voir son énergie aspirée, il semblerait que ce ne soit plus l’insecte qui réfléchisse, mais le champignon sur son dos."
+
+#: app.py:34
+msgid "Its large eyes act as radar. In a bright place, you can see that they are clusters of many tiny eyes."
+msgstr "Ses grands yeux lui servent de radar. En pleine lumière, on peut y distinguer des facettes."
+
+#: app.py:34
+msgid "The powdery scales on its wings are hard to remove from skin. They also contain poison that leaks out on contact."
+msgstr "Les écailles de ses ailes sont presque impossibles à retirer lorsqu’elles se collent à la peau, et elles libèrent un poison violent au contact."
+
+#: app.py:34
+msgid "It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot."
+msgstr "Ce Pokémon creuse sous terre à faible profondeur. La terre qu’il laisse dans son sillage le rend facile à repérer."
+
+#: app.py:34
+msgid "These Diglett triplets dig over 60 miles below sea level. No one knows what it’s like underground."
+msgstr "Ce trio de Taupiqueur est capable de creuser jusqu’à 100 km sous terre, vers l’inconnu."
+
+#: app.py:34
+msgid "It loves to collect shiny things. If it’s in a good mood, it might even let its Trainer have a look at its hoard of treasures."
+msgstr "Tatillon sur la propreté de la pièce sur son front, il se lave la figure avec grand soin. Il ne s’entend pas avec les Miaouss de Galar."
+
+#: app.py:34
+msgid "Its elegant and refined behavior clashes with that of the barbaric Perrserker. The relationship between the two is one of mutual disdain."
+msgstr "Il se comporte avec grâce et élégance, et ne s’entend pas avec les rustres Berserkatt : les deux espèces se méprisent."
+
+#: app.py:34
+msgid "Suffers perpetual headaches. If the agony grows too great, Psyduck's latent power erupts, contrary to Psyduck's intent. Ergo, I am exploring ways to ease the pain."
+msgstr "Sa migraine s’intensifie à mesure que son stress monte. Il libère une force psychique puissante qui terrasse tous ceux qui l’entourent."
+
+#: app.py:34
+msgid "Its body is strong, and it has webbing on its hands and feet. Golduck can swim easily through rough seas, clawing its way through the high waves."
+msgstr "D’après de vieilles légendes, ce Pokémon entraînait au fond de l’eau tous ceux qui osaient souiller sa rivière."
+
+#: app.py:34
+msgid "An agile Pokémon that lives in trees. It angers easily and will not hesitate to attack anything."
+msgstr "Agile et rapide, ce Pokémon vit dans les arbres. Il s’énerve facilement et s’attaque à tout ce qui bouge quand il est en colère."
+
+#: app.py:34
+msgid "It stops being angry only when nobody else is around. To view this moment is very difficult."
+msgstr "Sa fureur prend fin quand il n’a plus personne à frapper. Il est difficile d’en être témoin."
+
+#: app.py:34
+msgid "They patrol their territory in pairs. I believe the igneous rock components in the fur of this species are the result of volcanic activity in its habitat."
+msgstr "Très fidèle, il aboie de toutes ses forces pour protéger son Dresseur d’Origine quand un danger le guette."
+
+#: app.py:34
+msgid "Snaps at its foes with fangs cloaked in blazing flame. Despite its bulk, it deftly feints every which way, leading opponents on a deceptively merry chase as it all but dances around them."
+msgstr "Ce Pokémon est admiré depuis toujours pour sa beauté. Il court avec tellement de légèreté qu’on dirait qu’il vole."
+
+#: app.py:34
+msgid "In rivers with fast-flowing water, this Pokémon will cling to a rock by using its thick lips, which act like a suction cup."
+msgstr "Dans les rivières au courant puissant, il se sert de ses lèvres épaisses comme d’une ventouse pour s’accrocher aux rochers."
+
+#: app.py:34
+msgid "This Pokémon’s sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies’ grasp and escape."
+msgstr "Il sécrète une sorte de mucus huileux qui lui permet d’échapper aux ennemis qui tentent de l’attraper."
+
+#: app.py:34
+msgid "Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches."
+msgstr "Aussi habile à la nage qu’au combat, il peut donner de vigoureux coups de poing avec ses bras musclés."
+
+#: app.py:34
+msgid "Spends 18 hours of the day sleeping. Even while asleep, Abra can control its psychic powers—should danger approach, the Pokémon will simply teleport away."
+msgstr "Il peut se téléporter en dormant. On dit que plus son sommeil est profond, plus il se téléporte loin."
+
+#: app.py:34
+msgid "There are rumors that a child with mystical powers became a Kadabra; however, this remains unverified. I suspect that the spoon Kadabra holds enhances its brain waves."
+msgstr "Incroyablement doué en télékinésie, il concentre son énergie psychique dans l’étoile sur son front en prévision de son évolution."
+
+#: app.py:34
+msgid "The longer Alakazam lives, the larger and heavier its head becomes. Our tests have shown that the strength of its psychic powers correlates positively to the weight of its head."
+msgstr "Il dispose d’immenses pouvoirs psychiques. On raconte qu’il s’en est servi afin de créer les cuillères qu’il tient dans chaque main."
+
+#: app.py:34
+msgid "Though as small as a child, it has strength enough to easily throw a well-built adult. Striving to become ever stronger, Machop trains by carrying a Graveler on its shoulders."
+msgstr "Il essaie de dépenser son énergie débordante en soulevant des rochers, ce qui le rend encore plus fort."
+
+#: app.py:34
+msgid "A sturdy creature boasting a robust physique and boundless stamina. Loves training above all else and voluntarily assists with tasks such as construction and clearing land."
+msgstr "Son corps robuste ne se fatigue jamais. Il n’hésite pas à aider les gens lorsqu’il s’agit de soulever des objets très lourds."
+
+#: app.py:34
+msgid "In close combat, its four arms afford it offensive and defensive supremacy. In but a blink, this valiant Pokémon can overwhelm its foes with more than 1,000 blows from its fists."
+msgstr "Il enchaîne les coups de poing avec ses quatre bras à une vitesse surprenante."
+
+#: app.py:34
+msgid "Prefers hot and humid places. It ensnares tiny bugs with its vines and devours them."
+msgstr "Il préfère les endroits chauds et humides. Il capture les Pokémon Insecte avec ses lianes pour les dévorer."
+
+#: app.py:34
+msgid "When hungry, it swallows anything that moves. Its hapless prey is dissolved by strong acids."
+msgstr "Quand il a faim, il avale tout ce qui bouge, puis achève ses proies avec de l’acide."
+
+#: app.py:34
+msgid "Lures prey with the sweet aroma of honey. Swallowed whole, the prey is dissolved in a day, bones and all."
+msgstr "Il attire ses proies avec une odeur de miel et les avale tout entières. Il les digère en un jour seulement, les os y compris."
+
+#: app.py:34
+msgid "They fire beams from the glassy, magenta orbs that resemble eyes atop their heads, and they drift in shallow seas. During low tide, they can sometimes be found on beaches, desiccated."
+msgstr "Il est presque totalement composé d’eau. Lorsqu’il s’immerge dans les flots, son corps se fond dans l’eau, ce qui le rend presque invisible."
+
+#: app.py:34
+msgid "It has 80 tentacles, each with a venomous tip. These tentacles are also extendible, lengthening when Tentacruel attempts to catch prey. Use caution."
+msgstr "Il peut allonger ses 80 tentacules à volonté et les utiliser comme un filet pour attraper sa proie et la transpercer de ses pics empoisonnés."
+
+#: app.py:34
+msgid "Makes its home in mountainous regions, using its arms to climb along harsh mountain roads. Can be troublesome—carelessly kicking one will cause it to fly into a rage and chase after you."
+msgstr "On en trouve près des sentiers de montagne. Si vous marchez dessus par inadvertance, ils s’énervent et attaquent."
+
+#: app.py:34
+msgid "Dwells in holes dug into sheer walls of stone. It enjoys rolling down slopes as though it were a boulder during a rockfall, so keep an eye upward while traversing mountain roads."
+msgstr "Il dévale les sentiers de montagne et traverse les obstacles en les pulvérisant."
+
+#: app.py:34
+msgid "The rocklike shell is shed each year. The cast-off shell then crumbles, reverting to a mass of soil, which can be spread across fields to promote crop growth."
+msgstr "Juste après la mue, son corps est blanc et tendre. Au contact de l’air, sa peau se solidifie et forme une armure."
+
+#: app.py:34
+msgid "These Pokémon live in herds out in the grassland. Newborn foals lack their fiery manes, which will develop about an hour after birth."
+msgstr "Il semblerait qu’une fois qu’un Dresseur a gagné la confiance de Ponyta, sa crinière enflammée ne le brûle plus au toucher."
+
+#: app.py:34
+msgid "Fiery mane aglow, Rapidash darts like an arrow across the land. This prodigiously swift creature can traverse the vast region of Hisui in a day and a half."
+msgstr "Au sein d’un troupeau, c’est le plus rapide qui devient le chef. Il choisit les lieux où se rendre et détermine la vitesse de galop."
+
+#: app.py:34
+msgid "When this Pokémon’s tail is soaked in water, sweetness seeps from it. Slowpoke uses this trait to lure in and fish up other Pokémon."
+msgstr "Lorsqu’il trempe le bout de sa queue dans l’eau, une substance sucrée s’en dégage. Il s’en sert pour appâter ses proies quand il pêche."
+
+#: app.py:34
+msgid "Being bitten by a Shellder shocked this Pokémon into standing on two legs. If the Shellder lets go, it seems Slowbro will turn back into a Slowpoke."
+msgstr "La morsure du Kokiyas l’a tellement surpris qu’il est devenu bipède. Il paraît qu’il redevient un Ramoloss si le Kokiyas lâche prise."
+
+#: app.py:34
+msgid "A bizarre Pokémon with but a single eye embedded in an iron sphere. I suspect this creature levitates due to the magnetism it emits from its arms, which resemble horseshoe-shaped magnets."
+msgstr "Il se nourrit d’électricité et flotte dans les airs en libérant des ondes électromagnétiques avec les aimants situés de part et d’autre de son corps."
+
+#: app.py:34
+msgid "Three Magnemite gathered to evolve into this Pokémon. The source of much vexation on my part, as its powerful magnetism destroys my research equipment."
+msgstr "Il émet constamment une énergie magnétique puissante qui interfère avec la grande majorité des ordinateurs dont il s’approche."
+
+#: app.py:34
+msgid "They use a plant stalk as a weapon, but not all of them use it in the same way. Several distinct styles of stalk fighting have been observed."
+msgstr "Il se bat à l’aide de sa tige. Il existe plusieurs écoles quant à son maniement."
+
+#: app.py:34
+msgid "Its short wings make flying difficult. Instead, this Pokémon runs at high speed on developed legs."
+msgstr "Ses petites ailes ne lui permettent pas de voler, mais grâce à ses puissantes pattes, il peut courir très rapidement."
+
+#: app.py:34
+msgid "One of Doduo’s two heads splits to form a unique species. It runs close to 40 mph in prairies."
+msgstr "Quand une des têtes de Doduo se divise, il devient un Dodrio capable de courir à 60 km/h."
+
+#: app.py:34
+msgid "Loves freezing-cold conditions. Relishes swimming in a frigid climate of around 14 degrees Fahrenheit."
+msgstr "Il est à l’aise dans les endroits gelés. Il nage avec plaisir dans de l’eau à -10 ºC."
+
+#: app.py:34
+msgid "Its entire body is a snowy white. Unharmed by even intense cold, it swims powerfully in icy waters."
+msgstr "Son corps entier est aussi blanc que la neige. Il résiste bien au froid et peut même nager au milieu des icebergs."
+
+#: app.py:34
+msgid "Made of congealed sludge. It smells too putrid to touch. Even weeds won’t grow in its path."
+msgstr "Ce tas de fange sent si mauvais qu’il est impossible de le toucher. Plus rien ne pousse dans son sillage putride."
+
+#: app.py:34
+msgid "Smells so awful, it can cause fainting. Through degeneration of its nose, it lost its sense of smell."
+msgstr "Son odeur immonde provoque des évanouissements. Son odorat s’est atrophié à cause de sa propre puanteur."
+
+#: app.py:34
+msgid "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+msgstr "Sa coquille est si résistante qu’elle repousse toutes les attaques. En revanche, il est vulnérable quand celle-ci s’ouvre."
+
+#: app.py:34
+msgid "Once it slams its shell shut, it is impossible to open, even by those with superior strength."
+msgstr "Quand il referme sa coquille, il est impossible de la rouvrir, même avec une force hors du commun."
+
+#: app.py:34
+msgid "Gaseous and completely impalpable. Also highly dangerous— inhaling part of its poisonous body will cause one to faint instantly."
+msgstr "Son corps gazéiforme lui permet de se glisser n’importe où, mais au moindre coup de vent, il s’envole."
+
+#: app.py:34
+msgid "This frightful, malevolent spirit can glide through walls, appearing wherever it likes. According to rumor, victims of a Haunter's lick will wither to death day by day."
+msgstr "On dit que lorsque quelqu’un a l’impression d’être surveillé dans le noir, c’est sûrement qu’un Spectrum se trouve dans les parages."
+
+#: app.py:34
+msgid "Possesses potential victims' shadows in an effort to steal away the victims' lives. If your shadow begins to laugh, you must take hold of a protective charm posthaste!"
+msgstr "On dit qu’Ectoplasma surgit parfois des ténèbres pour prendre la vie des personnes égarées en montagne."
+
+#: app.py:34
+msgid "This chain of immense stones resembles a giant serpent. Tremors shake the earth above as it burrows deep beneath the ground, feeding on boulders as it goes."
+msgstr "Il creuse dans le sol à une vitesse de 80 km/h en contorsionnant son immense corps de pierre."
+
+#: app.py:34
+msgid "If you sleep by it all the time, it will sometimes show you dreams it had eaten in the past."
+msgstr "Si vous dormez tout le temps près de lui, il partagera parfois avec vous les rêves qu’il a dévorés par le passé."
+
+#: app.py:34
+msgid "Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum."
+msgstr "Évitez son regard quand vous en croisez un, ou il pourrait essayer de vous hypnotiser avec son pendule."
+
+#: app.py:34
+msgid "If it senses danger approaching, it cloaks itself with bubbles from its mouth so it will look bigger."
+msgstr "S’il se sent menacé, il se cache derrière les bulles émises par sa bouche pour paraître plus gros."
+
+#: app.py:34
+msgid "Its oversized claw is very powerful, but when it’s not in battle, the claw just gets in the way."
+msgstr "Sa pince gigantesque possède une puissance destructrice phénoménale, mais hors combat, son poids devient un handicap."
+
+#: app.py:34
+msgid "An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh."
+msgstr "On dit qu’il se déguise en Poké Ball. Il s’autodétruit à la moindre stimulation."
+
+#: app.py:34
+msgid "The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts."
+msgstr "Il stocke de l’énergie électrique dans son corps, ce qui le rend instable et explosif."
+
+#: app.py:34
+msgid "These Pokémon get nervous when they’re not in a group of six. The minute even one member of the group goes missing, Exeggcute become cowardly."
+msgstr "Il a besoin d’être constitué de ses six membres pour rester calme. Sitôt qu’il en manque un, il lui prend soudainement l’envie de fuir."
+
+#: app.py:34
+msgid "When they work together, Exeggutor’s three heads can put out powerful psychic energy. Cloudy days make this Pokémon sluggish."
+msgstr "Les attaques psychiques lancées par ses trois têtes à l’unisson sont très puissantes. Par temps nuageux, ses mouvements sont plus lents."
+
+#: app.py:34
+msgid "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger."
+msgstr "Il porte sur sa tête le crâne de sa défunte mère. Il lui arrive de rêver d’elle et de pleurer, mais chaque larme qu’il verse le rend plus fort."
+
+#: app.py:34
+msgid "When this Pokémon evolved, the skull of its mother fused to it. Marowak’s temperament also turned vicious at the same time."
+msgstr "En évoluant, il est devenu violent, et le crâne de sa mère qu’il portait a fusionné avec sa tête."
+
+#: app.py:34
+msgid "The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick."
+msgstr "Kicklee peut rétracter et étendre ses jambes à sa guise. La formidable allonge dont il dispose lui permet de frapper des adversaires éloignés."
+
+#: app.py:34
+msgid "Its punches slice the air. However, it seems to need a short break after fighting for three minutes."
+msgstr "Ses poings fendent l’air, mais il se fatigue au bout de trois minutes à enchaîner les coups."
+
+#: app.py:34
+msgid "Wields its long tongue deftly, as though it were an arm. The Pokémon's viscous saliva, once it has been collected and boiled down, yields a strong and highly useful adhesive."
+msgstr "Excelangue se nourrit essentiellement de Pokémon Insecte. Il lèche ses ennemis avec sa longue langue pour les paralyser, puis les avale tout rond."
+
+#: app.py:34
+msgid "It adores polluted air. Some claim that Koffing used to be more plentiful in the Galar region than they are now."
+msgstr "On raconte qu’il y a longtemps, ces Pokémon amateurs d’air pollué étaient beaucoup plus nombreux à Galar."
+
+#: app.py:34
+msgid "It can’t suck in air quite as well as a Galarian Weezing, but the toxins it creates are more potent than those of its counterpart."
+msgstr "Il ne peut pas aspirer autant d’air que le Smogogo de Galar, mais le poison qu’il produit est plus puissant."
+
+#: app.py:34
+msgid "Ludicrously strong—when it butts heads with a mountain, it is the mountain that shatters. But its short legs struggle with turns, and it is incapable of stopping unless it collides with something."
+msgstr "Il ne peut se souvenir que d’une chose à la fois. S’il se met à courir, il en oublie tout de suite la raison."
+
+#: app.py:34
+msgid "Rapidly rotates its horn to bore through bedrock. It swaggers around volcanic regions, protected from the lava's heat by its tough, armorlike hide."
+msgstr "Son épiderme est si épais qu’il lui permet même de survivre dans du magma d’une température de 2 000 °C."
+
+#: app.py:34
+msgid "This purehearted Pokémon shares its eggs with the injured."
+msgstr "Ce Pokémon lent à l’origine a appris à fuir plus vite pour protéger ses œufs des voleurs."
+
+#: app.py:34
+msgid "It is cloaked entirely in blue vines, preventing any glimpse of its true identity. The vines impart a refreshing sensation when chewed—they're useful as a spice."
+msgstr "Ses lianes ont une odeur particulière. Elles servent d’herbes aromatiques dans une certaine zone de Galar."
+
+#: app.py:34
+msgid "There are records of a lost human child being raised by a childless Kangaskhan."
+msgstr "Certains documents certifient que les Kangourex sans progéniture élevaient des enfants humains en détresse."
+
+#: app.py:34
+msgid "They swim with dance-like motions and cause whirlpools to form. Horsea compete to see which of them can generate the biggest whirlpool."
+msgstr "Hypotrempe crée des tourbillons en dansant sous l’eau. Il s’amuse à comparer la taille des remous qu’il fait avec ceux de ses congénères."
+
+#: app.py:34
+msgid "Seadra’s mouth is slender, but its suction power is strong. In an instant, Seadra can suck in food that’s larger than the opening of its mouth."
+msgstr "Sa puissance de succion est si forte qu’il peut aspirer en un instant ses proies pour les manger, même si elles sont plus grosses que sa bouche."
+
+#: app.py:34
+msgid "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots."
+msgstr "Ses nageoires dorsales et pectorales sont très développées. Elles lui permettent de nager à une vitesse de cinq nœuds."
+
+#: app.py:34
+msgid "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away."
+msgstr "S’il fait des trous dans les rochers avec sa corne pour bâtir son nid, c’est pour éviter que ses Œufs ne soient emportés par les flots."
+
+#: app.py:34
+msgid "Fish Pokémon nibble at it, but Staryu isn’t bothered. Its body regenerates quickly, even if part of it is completely torn off."
+msgstr "Il ne se soucie guère des Pokémon poissons qui viennent le grignoter, car même si son corps est déchiqueté, il se régénère aussitôt."
+
+#: app.py:34
+msgid "Starmie swims by spinning its body at high speed. As this Pokémon cruises through the ocean, it absorbs tiny plankton."
+msgstr "Il aspire du plancton quand il nage dans la mer en faisant tourner son corps à grande vitesse."
+
+#: app.py:34
+msgid "The behavior of this clown-like Pokémon reminds one of pantomime. It creates invisible walls using a force emitted from its fingertips."
+msgstr "Son talent pour le mime est indéniable. Il émet des ondes du bout des doigts pour créer un mur qui le protège de nombreuses attaques."
+
+#: app.py:34
+msgid "The large, wickedly sharp scythes on its forearms are truly fearsome weapons. Prey's attempts to flee are unfailingly thwarted by this Pokémon's nimble motions."
+msgstr "Si l’on voit un grand nombre d’arbres abattus au même endroit dans une forêt, cela signifie que l’on se trouve sur le territoire d’un Insécateur."
+
+#: app.py:34
+msgid "The Jynx of Galar often have beautiful and delicate voices. Some of these Pokémon have even gathered a fan base."
+msgstr "Les Lippoutou vivant à Galar sont souvent dotés d’une belle voix cristalline, ce qui leur vaut d’attirer des fans."
+
+#: app.py:34
+msgid "Feeds on electrical energy. During sudden showers beneath looming thunderclouds, one can observe Electabuzz scaling tall trees, where the Pokémon will then wait for lightning to strike."
+msgstr "Quand un orage approche, ils se réunissent tous autour d’un grand arbre et attendent patiemment que la foudre s’abatte."
+
+#: app.py:34
+msgid "Legend has it that this Pokémon was born from the crater of a volcano. When wounded, it bathes in lava to heal its body, much as one would soak in a hot spring."
+msgstr "Tout son corps est en combustion permanente. Il est craint, car on dit qu’il cause des incendies."
+
+#: app.py:34
+msgid "This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away."
+msgstr "Une fois sa proie enserrée entre ses cornes, deux choix s’offrent à lui : la couper en deux ou la projeter au loin de toutes ses forces."
+
+#: app.py:34
+msgid "The Tauros of the Galar region are volatile in nature, and they won’t allow people to ride on their backs."
+msgstr "Les Tauros vivant à Galar ont un tempérament violent et ne tolèrent pas que les êtres humains montent sur leur dos."
+
+#: app.py:34
+msgid "A feeble, pitiful imbecile of a Pokémon that is nonetheless very hardy. Unperturbed by turbid water, it can be found living in all sorts of places."
+msgstr "Ce Pokémon est si faible que, dans les eaux à forts courants, il se contente de se laisser porter lamentablement."
+
+#: app.py:34
+msgid "I suspect this Pokémon to be the true identity of a dragon written of in ancient texts, which claimed that it razed an entire village with white-hot beams from its maw."
+msgstr "Quand il se laisse emporter par la rage, même la plus violente des tempêtes ne peut l’empêcher de détruire tout ce qui l’entoure."
+
+#: app.py:34
+msgid "Crossing icy seas is no issue for this cold-resistant Pokémon. Its smooth skin is a little cool to the touch."
+msgstr "Il résiste bien aux très basses températures et peut nager dans des mers glaciales. Sa peau est lisse et légèrement froide au toucher."
+
+#: app.py:34
+msgid "When it encounters another Ditto, it will move faster than normal to duplicate that opponent exactly."
+msgstr "Quand il rencontre l’un de ses semblables, il s’agite avec plus de vivacité que d’habitude pour adopter exactement la même forme que lui."
+
+#: app.py:34
+msgid "Harbors the potential to evolve into manifold forms. Within Eevee lies the key to the mysteries of Pokémon evolution—I'm certain of it."
+msgstr "L’ADN de ce Pokémon très particulier recèle de nombreuses possibilités d’évolution."
+
+#: app.py:34
+msgid "Tests show that its cells closely resemble water molecules, which perhaps explains its ability to conceal its form while submerged. I believe the origins of mermaid folklore lie with this Pokémon."
+msgstr "Sa structure cellulaire est similaire à la composition moléculaire de l’eau. Une fois dans cet élément, il devient indétectable à l’œil nu."
+
+#: app.py:34
+msgid "Bristles its fur into sharp, needlelike points when enraged. One can hear electricity crackle in its breath when it exhales."
+msgstr "Il se charge d’ions négatifs contenus dans l’air pour envoyer des décharges d’environ 10 000 volts."
+
+#: app.py:34
+msgid "Flames burn within a saclike organ inside this Pokémon. When Flareon inhales, these flames grow in intensity, reaching a mighty 3,000 degrees Fahrenheit."
+msgstr "Il emmagasine de l’air dans sa poche de flammes et le chauffe à une température de 1 700 °C."
+
+#: app.py:34
+msgid "It has no discernible heartbeat and does not seem to draw breath, and yet it appears to function without issue. I cannot even begin to explain this utterly bizarre anomaly."
+msgstr "Ces dernières années, il s’est rendu très utile dans le cyberespace, qu’il arpente pour s’assurer qu’il n’y a aucune donnée suspecte."
+
+#: app.py:34
+msgid "This Pokémon is a member of an ancient, extinct species. Omanyte paddles through water with its 10 tentacles, looking like it’s just drifting along."
+msgstr "Un Pokémon préhistorique aujourd’hui disparu. Il semble flotter lorsqu’il nage en brassant l’eau avec ses dix tentacules."
+
+#: app.py:34
+msgid "Omastar’s sharp fangs could crush rock, but the Pokémon can attack only the prey that come within reach of its tentacles."
+msgstr "Ses crocs sont capables de broyer la roche, mais il ne peut s’attaquer qu’aux proies à portée de ses tentacules."
+
+#: app.py:34
+msgid "While some say this species has gone extinct, Kabuto sightings are apparently fairly common in some places."
+msgstr "On raconte qu’ils se seraient éteints, mais apparemment, on peut souvent en croiser dans une zone particulière."
+
+#: app.py:34
+msgid "The cause behind the extinction of this species is unknown. Kabutops were aggressive Pokémon that inhabited warm seas."
+msgstr "Nul ne sait pourquoi il s’est éteint. Ce Pokémon préhistorique féroce vivait dans les mers chaudes."
+
+#: app.py:34
+msgid "Aerodactyl’s sawlike fangs can shred skin to tatters—even the skin of Steel-type Pokémon."
+msgstr "Sa dentition semblable à une scie peut même broyer la peau des Pokémon Acier."
+
+#: app.py:34
+msgid "This glutton appears in villages without warning and devours the entirety of their rice granaries—such occurrences have long been counted among the gravest of disasters."
+msgstr "L’estomac de ce Pokémon est si résistant qu’il peut même digérer de la nourriture avariée."
+
+#: app.py:34
+msgid "This Pokémon can control ice at will. Articuno is said to live in snowy mountains riddled with permafrost."
+msgstr "Il possède le pouvoir de contrôler la glace. Selon les dires, il vivrait sur les sommets recouverts de neiges éternelles."
+
+#: app.py:34
+msgid "Zapdos is a legendary bird Pokémon. It’s said that when Zapdos rubs its feathers together, lightning will fall immediately after."
+msgstr "On raconte que lorsque ce Pokémon oiseau légendaire fait vibrer ses plumes, le frottement fait tomber la foudre instantanément."
+
+#: app.py:34
+msgid "There are stories of this Pokémon using its radiant, flame-cloaked wings to light up paths for those lost in the mountains."
+msgstr "On raconte qu’il a sauvé des personnes perdues en montagne en illuminant les sentiers à l’aide de ses splendides ailes flamboyantes."
+
+#: app.py:34
+msgid "This Pokémon was long considered to be no more than a myth. The small lump on a Dratini’s forehead is actually a horn that’s still coming in."
+msgstr "On a longtemps douté de l’existence de ce Pokémon. La petite bosse sur son front est en fait sa corne en pleine croissance."
+
+#: app.py:34
+msgid "This Pokémon gathers power in the orbs on its tail and controls the weather. When enshrouded by an aura, Dragonair has a mystical appearance."
+msgstr "Il contrôle la météo en accumulant de l’énergie dans les orbes au bout de sa queue. Sa silhouette nimbée d’une aura lui confère un air mystique."
+
+#: app.py:34
+msgid "This Pokémon is known as the Sea Incarnate. Figureheads that resemble Dragonite decorate the bows of many ships."
+msgstr "On l’appelle « l’avatar de la mer ». Nombreux sont les navires arborant une figure de proue en forme de Dracolosse."
+
+#: app.py:34
+msgid "Its DNA is almost the same as Mew’s. However, its size and disposition are vastly different."
+msgstr "Son ADN est presque le même que celui de Mew, mais sa taille et son caractère sont très différents."
+
+#: app.py:34
+msgid "When viewed through a microscope, this Pokémon’s short, fine, delicate hair can be seen."
+msgstr "À l’aide d’un microscope, on peut distinguer le pelage extrêmement court, fin et délicat de ce Pokémon."
+
+#: app.py:34
+msgid "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around."
+msgstr "Lorsqu’il se bat, Germignon secoue sa feuille pour tenir son ennemi à distance. Un doux parfum s’en dégage également, apaisant les Pokémon qui se battent et créant une atmosphère agréable et amicale."
+
+#: app.py:34
+msgid "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy."
+msgstr "Le cou de Macronium est entouré de nombreuses feuilles. Dans chacune d’elles se trouve une pousse d’arbre. Le parfum de cette pousse donne la pêche aux personnes qui le sentent."
+
+#: app.py:34
+msgid "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit."
+msgstr "Le parfum de la fleur de Méganium apaise et calme les esprits. Pendant les combats, ce Pokémon émet son parfum relaxant pour atténuer l’agressivité de l’ennemi."
+
+#: app.py:34
+msgid "Hails from the Johto region. Though usually curled into a ball due to its timid disposition, it harbors tremendous firepower."
+msgstr "Héricendre se protège en faisant jaillir des flammes de son dos. Ces flammes peuvent être violentes si le Pokémon est en colère. Cependant, s’il est fatigué, seules quelques flammèches vacillent laborieusement."
+
+#: app.py:34
+msgid "This creature's fur is most mysterious—it is wholly impervious to the burning touch of flame. Should Quilava turn its back to you, take heed! Such a posture indicates a forthcoming attack."
+msgstr "Feurisson garde ses ennemis à distance grâce à l’intensité de ses flammes et à des rafales d’air brûlant. Ce Pokémon utilise son incroyable agilité pour éviter les attaques, tout en enflammant ses ennemis."
+
+#: app.py:34
+msgid "Said to purify lost, forsaken souls with its flames and guide them to the afterlife. I believe its form has been influenced by the energy of the sacred mountain towering at Hisui's center."
+msgstr "Typhlosion se cache derrière un chatoyant nuage de chaleur qu’il crée en attisant ses flammes intenses. Ce Pokémon peut générer des rafales explosives qui réduisent tout en cendres."
+
+#: app.py:34
+msgid "Despite the smallness of its body, Totodile’s jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury."
+msgstr "Malgré son tout petit corps, la mâchoire de Kaiminus est très puissante. Parfois, ce Pokémon mordille les gens pour jouer, sans se rendre compte que sa morsure peut gravement blesser quelqu’un."
+
+#: app.py:34
+msgid "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in."
+msgstr "Une fois que Crocrodil a refermé sa mâchoire sur son ennemi, il est impossible de le faire lâcher prise. Ses crocs sont recourbés comme des hameçons et ne peuvent pas être retirés une fois enfoncés."
+
+#: app.py:34
+msgid "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed."
+msgstr "Aligatueur impressionne ses ennemis en ouvrant son énorme gueule. Pendant les combats, il piétine le sol de ses puissantes pattes arrière avant de charger ses adversaires à pleine vitesse."
+
+#: app.py:34
+msgid "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear."
+msgstr "Lorsqu’un Fouinette dort, un autre monte la garde. La sentinelle réveille les autres au moindre signe de danger. Si un de ces Pokémon est séparé de sa meute, il est incapable de dormir, car il a peur."
+
+#: app.py:34
+msgid "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet."
+msgstr "Fouinar est très mince. Lorsqu’il est attaqué, il peut s’enfuir en se faufilant habilement dans les recoins étroits. Malgré ses pattes courtes, ce Pokémon est très agile et rapide."
+
+#: app.py:34
+msgid "It begins to hoot at the same time every day. Some Trainers use them in place of clocks."
+msgstr "Il hulule chaque jour aux mêmes moments. Certains Dresseurs s’en servent comme d’une montre."
+
+#: app.py:34
+msgid "When it needs to think, it rotates its head 180 degrees to sharpen its intellectual power."
+msgstr "Quand il réfléchit, il tourne sa tête sur 180 degrés pour optimiser son mode de pensée."
+
+#: app.py:34
+msgid "These very cowardly Pokémon join together and use Reflect to protect their nest."
+msgstr "Extrêmement timide, ce Pokémon défend le nid qu’il partage avec ses congénères en utilisant Protection."
+
+#: app.py:34
+msgid "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you."
+msgstr "Il vole dans le ciel nocturne en répandant une poudre scintillante. Si elle vous touche, quelque chose de positif devrait bientôt vous arriver."
+
+#: app.py:34
+msgid "Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web."
+msgstr "Le poison contenu dans les mandibules de ce Pokémon n’est pas très violent, mais il suffit à immobiliser les proies piégées dans sa toile."
+
+#: app.py:34
+msgid "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively."
+msgstr "Il capture ses proies en projetant un fil qu’il sécrète. À la nuit tombée, il quitte sa toile et part chasser activement."
+
+#: app.py:34
+msgid "Its hind limbs have become another set of wings. Crobat expertly maneuvers its four wings to dart in exquisite fashion through even the most confined caves without losing any speed."
+msgstr "Il vole en contrôlant librement ses quatre ailes et peut se déplacer sans avoir besoin de ralentir, même dans les grottes étroites."
+
+#: app.py:34
+msgid "On the dark ocean floor, its only means of communication is its constantly flashing lights."
+msgstr "Au plus profond de l’océan, son seul moyen de communication est la lumière de ses antennes, qui clignotent constamment."
+
+#: app.py:34
+msgid "This Pokémon flashes a bright light that blinds its prey. This creates an opening for it to deliver an electrical attack."
+msgstr "Il dégage une vive lumière pour éblouir ses proies, puis leur inflige un choc électrique bien senti."
+
+#: app.py:34
+msgid "Pichu stores electricity in the sacs on its cheeks but discharges it inadvertently when agitated or excited. Being yet immature, the Pokémon's handling of electricity is rather inept."
+msgstr "Les poches électriques de ses joues sont très petites. Lorsqu’elles sont surchargées, il s’électrocute lui-même."
+
+#: app.py:34
+msgid "In silhouette, they resemble twinkling starlight. When shooting stars rain from the night sky, Cleffa gather in numbers and dance as though they are indeed incarnations of the stars."
+msgstr "Il ressemble un peu à une étoile. On suppose qu’il est venu sur terre accroché à une météorite."
+
+#: app.py:34
+msgid "Taking advantage of the softness of its body, Igglybuff moves as if bouncing. Its body turns a deep pink when its temperature rises."
+msgstr "Il se déplace en faisant rebondir son corps tout mou. Lorsque sa température corporelle augmente, il devient rose foncé."
+
+#: app.py:34
+msgid "This ovate creature is frequently mistaken for a moving egg when encountered out in the fields or in the mountains. Its guileless smile soothes the soul."
+msgstr "C’est un symbole de chance. On dit que sa coquille est remplie de joie."
+
+#: app.py:34
+msgid "No records exist of Togetic being seen in the wilds. Rumors abound that it evolves under the loving care of a trusted human companion, upon whom the Pokémon then bestows great joy."
+msgstr "Ce Pokémon est capable de léviter sans battre des ailes. Il est vite démoralisé s’il n’est pas en compagnie de gens sympathiques."
+
+#: app.py:34
+msgid "Because its wings aren’t yet fully grown, it has to hop to get around. It is always staring at something."
+msgstr "Ses ailes ne sont pas assez développées donc il ne peut se déplacer qu’en sautillant. Il fixe toujours quelque chose du regard."
+
+#: app.py:34
+msgid "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day."
+msgstr "Capable de voir le passé et l’avenir, ce Pokémon mystérieux consacre toutes ses journées à observer la course du soleil."
+
+#: app.py:34
+msgid "Rubbing its fleece generates electricity. You’ll want to pet it because it’s cute, but if you use your bare hand, you’ll get a painful shock."
+msgstr "Il a beau être mignon, sa laine génère de l’électricité quand on la frotte. Tentez de le caresser, et il vous mettra vite au courant !"
+
+#: app.py:34
+msgid "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches."
+msgstr "Il accumule de l’électricité dans sa toison duveteuse. Il en a tellement stocké qu’il en a perdu sa laine par endroits."
+
+#: app.py:34
+msgid "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors."
+msgstr "Sa queue brille d’une lumière éclatante. Depuis des temps très anciens, il est vénéré comme le guide des marins."
+
+#: app.py:34
+msgid "Bellossom gather at times and appear to dance. They say that the dance is a ritual to summon the sun."
+msgstr "Les Joliflor se réunissent parfois pour danser. On pense que c’est un rituel pour invoquer le soleil."
+
+#: app.py:34
+msgid "Even after Marill swims in a cold sea, its water- repellent fur dries almost as soon as Marill leaves the water. That’s why this Pokémon is never cold."
+msgstr "Sa fourrure est hydrophobe, si bien qu’elle sèche en un instant. Il n’a donc jamais froid, même lorsqu’il sort d’une mer glaciale."
+
+#: app.py:34
+msgid "These Pokémon create air-filled bubbles. When Azurill play in rivers, Azumarill will cover them with these bubbles."
+msgstr "Il crée des bulles d’air dont il enveloppe gentiment les Azurill venus jouer dans la rivière."
+
+#: app.py:34
+msgid "Though it pretends to be a tree, it fails to fool even children. To the touch, its body feels more like rock than tree bark. Sudowoodo's extreme aversion to water merits special note."
+msgstr "Il se déguise en arbre pour éviter de se faire attaquer. Il déteste l’eau et se cache par temps de pluie."
+
+#: app.py:34
+msgid "The cry of a male is louder than that of a female. Male Politoed with deep, menacing voices find more popularity with the opposite gender."
+msgstr "Le cri des mâles est plus puissant que celui des femelles, qui préfèrent les voix fortes et intimidantes."
+
+#: app.py:34
+msgid "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away."
+msgstr "Ce Pokémon flotte à la dérive, porté par le vent. S’il sent qu’un vent très fort approche, Granivol attache ses feuilles aux autres Granivol pour ne pas être emporté par la bourrasque."
+
+#: app.py:34
+msgid "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer."
+msgstr "La fleur de Floravol éclot lorsque la température atteint 18 °C. L’ouverture de la fleur change en fonction de la température. Certaines personnes se servent de ce Pokémon comme d’un thermomètre."
+
+#: app.py:34
+msgid "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating."
+msgstr "Cotovol traverse la mer, porté par les vents, pour découvrir de nouveaux territoires. Ce Pokémon se rapproche du sol quand le vent est trop froid."
+
+#: app.py:34
+msgid "This treetop dweller possesses a tail as dexterous as a hand. Ancient writings describe this Pokémon as a one-armed oddity."
+msgstr "Il guette ses proies depuis la cime des arbres. Quand il aperçoit un Croquine, son mets préféré, il se jette dessus."
+
+#: app.py:34
+msgid "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew."
+msgstr "Tournegrin essaie de bouger le moins possible. C’est parce qu’il veut conserver tous les nutriments qu’il stocke dans son corps pour son évolution. Il ne mange pas, ne subsistant que grâce à la rosée matinale."
+
+#: app.py:34
+msgid "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night."
+msgstr "Héliatronc convertit l’énergie solaire en nutriments. Il remue activement pendant la journée, quand il fait chaud. Il redevient immobile dès que le soleil se couche."
+
+#: app.py:34
+msgid "Its frail wings are so thin that one can see clear through them. However, during flight these wings exhibit the power to churn air with force enough to launch a house skyward."
+msgstr "Yanma a un champ de vision de 360 degrés sans avoir besoin de bouger les yeux. Il vole incroyablement bien et peut faire des figures acrobatiques. Ce Pokémon descend en piqué sur ses proies."
+
+#: app.py:34
+msgid "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating."
+msgstr "Lorsqu’il est sur la terre ferme, il couvre son corps d’un voile toxique qui le protège de la déshydratation."
+
+#: app.py:34
+msgid "Its body is always slimy. It often bangs its head on the river bottom as it swims but seems not to care."
+msgstr "Il est toujours gluant. Quand il nage, il se cogne souvent la tête au fond des rivières, mais semble s’en moquer."
+
+#: app.py:34
+msgid "Wields an arcane power with which it can predict the weather and even people's thoughts. When bathed in sunshine, the scarlet orb on its brow glows and builds energy."
+msgstr "Le joyau sur le front de Mentali projette des ondes psychiques en combat, et s’obscurcit quand il est à bout de force."
+
+#: app.py:34
+msgid "It is most active in the wee hours of the night, when moonlight bathes the land. Its large eyes can pierce the darkness and perceive prey with absolute clarity."
+msgstr "Les nuits de pleine lune, ou s’il est agité, les anneaux sur sa peau se mettent à briller."
+
+#: app.py:34
+msgid "Widely shunned as a bearer of ill fortune. Upon crossing paths with this creature, I've been told one must chant ”Workrum, Workrum—bad luck, don't come” as a protective incantation."
+msgstr "Il cherche des objets brillants pour son chef. Sa réputation d’oiseau de mauvais augure lui vaut la haine de nombreuses personnes."
+
+#: app.py:34
+msgid "Slowking can solve any problem presented to it, but no one can understand a thing Slowking says."
+msgstr "Il est capable de résoudre tous les problèmes qu’on lui présente, mais personne ne parvient à comprendre ce qu’il dit."
+
+#: app.py:34
+msgid "It conceals itself in darkness, sending chills up travelers' spines with its childlike weeping. As it observes the frightened travelers with glee, the red orbs upon its chest let off an eerie light."
+msgstr "Il adore faire peur aux humains en imitant leurs pleurs, et n’apprécie guère ceux qui ne se laissent pas intimider."
+
+#: app.py:34
+msgid "It is hard to believe these strangely shaped Pokémon are truly living creatures. I've pointed out that the species' many forms resemble writing from other lands; no one will take me seriously."
+msgstr "Ce Pokémon a la forme d’un caractère d’écriture antique. Personne ne sait si ces écritures antiques sont apparues avant les Zarbi ou le contraire. Des études sont en cours, mais aucun résultat n’a été annoncé."
+
+#: app.py:34
+msgid "To keep its pitch-black tail hidden, it lives quietly in the darkness. It is never first to attack."
+msgstr "Il vit discrètement dans l’obscurité pour cacher sa queue noire. Il n’attaque jamais en premier."
+
+#: app.py:34
+msgid "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day."
+msgstr "La tête à l’arrière de Girafarig abrite un cerveau trop petit pour penser. En revanche, cette tête arrière n’a pas besoin de dormir, ce qui lui permet de monter la garde tout le temps."
+
+#: app.py:34
+msgid "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge."
+msgstr "Il grandit en utilisant sa salive pour coller l’écorce des arbres sur son corps. Un Pomdepik âgé peut prendre des proportions démesurées."
+
+#: app.py:34
+msgid "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight."
+msgstr "On ne peut voir l’intérieur de sa carapace que lorsqu’il engloutit sa nourriture, mais il est si rapide que personne n’a encore jamais réussi."
+
+#: app.py:34
+msgid "The nests Dunsparce live in are mazes of tunnels. They never get lost in their own nests—they can tell where they are by the scent of the dirt."
+msgstr "Bien que son nid ressemble à un labyrinthe, il ne s’y perd jamais, car il se repère grâce à l’odeur de la terre."
+
+#: app.py:34
+msgid "Its tail is tipped by a thick, horrible stinger. To bring down prey, it will first obscure their vision by covering their faces with its body, and then it will use the stinger to inject them with venom."
+msgstr "Scorplane plane dans les airs sans un bruit, comme s’il glissait. Ce Pokémon s’accroche au visage de son ennemi grâce aux serres de ses pattes arrière et aux pinces de ses pattes avant, et pique avec son dard empoisonné."
+
+#: app.py:34
+msgid "This Pokémon evolved through use of a strange item. Its body is coated with steel powder and notably hard—not even diamond can leave so much as a scratch."
+msgstr "On pense que son corps s’est transformé à force d’avaler le fer contenu dans la terre en creusant."
+
+#: app.py:34
+msgid "In contrast to its appearance, it’s quite timid. When playing with other puppy Pokémon, it sometimes gets bullied."
+msgstr "Malgré les apparences, c’est un grand timide qui fait souvent l’objet de railleries quand il se trouve au milieu d’un groupe de Pokémon Chiot."
+
+#: app.py:34
+msgid "Although it’s popular with young people, Granbull is timid and sensitive, so it’s totally incompetent as a watchdog."
+msgstr "Les jeunes gens en sont fous, mais sa timidité et sa grande délicatesse en font un piètre Pokémon de garde."
+
+#: app.py:34
+msgid "Fishers detest this troublesome Pokémon because it sprays poison from its spines, getting it everywhere. A different form of Qwilfish lives in other regions."
+msgstr "Ses petites épines étaient autrefois des écailles. Elles sécrètent des toxines pouvant faire perdre connaissance."
+
+#: app.py:34
+msgid "Evolved by way of a curious item. The shell covering its body has been shown to be stronger than forged steel."
+msgstr "Malgré son corps fin, sa puissance de frappe est prodigieuse, car même ses muscles sont composés de métal."
+
+#: app.py:34
+msgid "The berries stored in its vaselike shell eventually become a thick, pulpy juice."
+msgstr "Les Baies qu’il conserve dans sa carapace en forme d’urne se changent en jus onctueux après un certain temps."
+
+#: app.py:34
+msgid "This Pokémon has an unparalleled horn. Heracross itself demonstrates tremendous power—it's capable of throwing several people trained in the traditional arts of war at once."
+msgstr "Ce Pokémon est fier de sa force colossale qui lui permet de soulever cent fois son propre poids avec facilité."
+
+#: app.py:34
+msgid "Its sturdy, curved claws are ideal for traversing precipitous cliffs. From the tips of these claws drips a venom that infiltrates the nerves of any prey caught in Sneasel's grasp."
+msgstr "Un Pokémon aussi cruel que fourbe. Il se glisse dans le nid des autres Pokémon en leur absence pour dérober leurs Œufs."
+
+#: app.py:34
+msgid "It licks its paws because of the sweet honey that has soaked into them. It is cunning, stealing into the nests of Combee and taking for itself the honey that the Combee have amassed."
+msgstr "Ce Pokémon aime se lécher les paumes quand elles sont encore pleines de miel. Teddiursa concocte son propre miel en mélangeant les fruits et le pollen récolté par Dardargnan."
+
+#: app.py:34
+msgid "When the cold season arrives in Hisui, this Pokémon will wander fields and mountains alike in search of its favorite berries. Ursaring's hunger during this time makes it a ferocious danger."
+msgstr "On dit que les Ursaring trouvent leur nourriture dans les cours d’eau et les grands arbres des forêts où ils habitent. Ce Pokémon erre dans la forêt toute la journée pour chercher de la nourriture."
+
+#: app.py:34
+msgid "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon’s body, carrying essential nutrients and oxygen to its organs."
+msgstr "Les veines de Limagma ne contiennent pas de sang. Au lieu de ça, du magma en fusion circule dans le corps de ce Pokémon, apportant les nutriments et l’oxygène nécessaires à ses organes."
+
+#: app.py:34
+msgid "Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog."
+msgstr "La température de Volcaropod est d’environ 10 000 °C. L’eau s’évapore à son contact. Si ce Pokémon se retrouve sous la pluie, les gouttes d’eau forment de la vapeur et couvrent la zone de brouillard."
+
+#: app.py:34
+msgid "Swinub excels at sniffing out mushrooms buried beneath grass or snow. Since ancient times, the people of Hisui have often relied upon this skill."
+msgstr "S’il sent une odeur attrayante, il fonce la tête la première pour trouver d’où elle vient."
+
+#: app.py:34
+msgid "The long fur of this Pokémon covers its eyes, ears, and even limbs, allowing Piloswine to resist harshly frigid conditions. The Pokémon's white tusks can be used to defeat its enemies."
+msgstr "Bien qu’il soit pourvu de pattes courtes, ses sabots larges et pointus l’empêchent de glisser sur la glace."
+
+#: app.py:34
+msgid "These Pokémon live in warm seas. In prehistoric times, many lived in the oceans around the Galar region as well."
+msgstr "Ces Pokémon habitués des mers chaudes se trouvaient autrefois en masse sur les côtes de Galar."
+
+#: app.py:34
+msgid "Spits water from its mouth with incredible accuracy. It captures Burmy by shooting them down off the branches from which they dangle."
+msgstr "À l’aide de sa nageoire dorsale en forme de ventouse, il s’accroche sous un Démanta pour récupérer ses restes."
+
+#: app.py:34
+msgid "While Octillery still shoots water from its mouth, the drastic anatomical difference between it and Remoraid meant that for a long time, no one believed the former evolved from the latter."
+msgstr "Il capture ses ennemis avec ses tentacules et les écrase ensuite avec sa tête dure comme la pierre."
+
+#: app.py:34
+msgid "It has a generous habit of sharing its food with people and Pokémon, so it’s always scrounging around for more food."
+msgstr "Ce Pokémon partage facilement son repas avec d’autres Pokémon et avec des humains, ce qui l’oblige à constamment courir après la nourriture."
+
+#: app.py:34
+msgid "This calm and gentle Pokémon swims gracefully through the sea. After building speed, it can leap out of the water. It is often misidentified as a bird Pokémon due to this behavior."
+msgstr "Il nage paisiblement, sans se soucier des Rémoraid qui s’agrippent à lui pour lui voler ses restes."
+
+#: app.py:34
+msgid "People fashion swords from Skarmory’s shed feathers, so this Pokémon is a popular element in heraldic designs."
+msgstr "Ce Pokémon orne souvent les blasons, car les plumes qu’il perd sont utilisées pour forger des épées."
+
+#: app.py:34
+msgid "They make repeated eerie howls before dawn to call attention to their pack."
+msgstr "Si ses congénères et lui poussent de sinistres hurlements avant l’aube, c’est pour signaler leur présence à tout le monde."
+
+#: app.py:34
+msgid "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it."
+msgstr "Ceux qui le craignaient jadis lui ont donné le surnom de « messager de la Faucheuse » à cause de son hurlement sinistre si particulier."
+
+#: app.py:34
+msgid "Scales shed by this Pokémon have such a splendorous gleam to them that they’ve been given to royalty as gifts."
+msgstr "Les écailles qui se détachent de son corps brillent d’un éclat si élégant et si intense qu’on les offre aux familles royales."
+
+#: app.py:34
+msgid "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water."
+msgstr "Phanpy utilise sa petite trompe pour se doucher. Quand plusieurs d’entre eux se réunissent, ils s’arrosent joyeusement. On peut souvent voir ces Pokémon se sécher au bord de l’eau."
+
+#: app.py:34
+msgid "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails."
+msgstr "Si Donphan décidait de charger, il pourrait détruire une maison. Grâce à sa force étonnante, ce Pokémon peut aider à déplacer les rochers et les coulées de boue qui bloquent les chemins de montagne."
+
+#: app.py:34
+msgid "A bizarre item caused this Pokémon to evolve. While it now exhibits many new gestures and expressions, its biology remains inscrutable."
+msgstr "Depuis qu’on l’a doté d’une intelligence artificielle, il parle un langage mystérieux que seuls ses congénères comprennent."
+
+#: app.py:34
+msgid "Its strangely shaped antlers have the power to bewitch those who see them. Medicine made by grinding up the black orbs from fallen antlers is an effective treatment for insomnia."
+msgstr "Les superbes bois de Cerfrousse étaient vendus très cher comme œuvres d’art. Ce Pokémon fut chassé et l’espèce proche de l’extinction à cause des gens qui recherchaient leurs précieux bois."
+
+#: app.py:34
+msgid "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them."
+msgstr "Il se sert du liquide qui sort de sa queue pour dessiner sa marque. Ses fans s’arrachent ses plus beaux tracés à prix d’or."
+
+#: app.py:34
+msgid "Even though it is small, it can’t be ignored because it will slug any handy target without warning."
+msgstr "Même s’il est petit, il vaut mieux ne pas l’ignorer : quand il trouve un adversaire à sa hauteur, il frappe fort et souvent sans prévenir."
+
+#: app.py:34
+msgid "After doing a handstand to throw off the opponent’s timing, it presents its fancy kick moves."
+msgstr "Après avoir effectué un poirier visant à désorienter son adversaire, il lui assène des coups de pied furieux."
+
+#: app.py:34
+msgid "This is a very curious Pokémon. Smoochum decides what it likes and dislikes by touching things with its lips."
+msgstr "Ce Pokémon très curieux touche tout et n’importe quoi avec ses lèvres pour déterminer ce qu’il aime et ce qu’il déteste."
+
+#: app.py:34
+msgid "They generate electricity by spinning their arms. During a thunderstorm, if one hears the lively voices of children out in the wilderness, what one is actually hearing are the voices of Elekid."
+msgstr "Il a encore du mal à emmagasiner l’électricité. Pour s’en nourrir, il se faufile dans les maisons à la recherche de prises électriques."
+
+#: app.py:34
+msgid "This Pokémon lives in volcanic areas. With each breath, sparks spurt from its mouth and nose. When Magby is in good health, its flames gain a yellow tint."
+msgstr "Il vit près des volcans. À la fin de la journée, il se détend dans un bon bain de magma."
+
+#: app.py:34
+msgid "This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons."
+msgstr "Sa santé décline si on ne le trait pas tous les jours. Le goût de son lait varie selon la saison."
+
+#: app.py:34
+msgid "A kindhearted Pokémon that will care for any sick person or Pokémon until their health improves. The eggs it lays are delicious and bring good fortune to those who eat them."
+msgstr "Il pond d’étranges œufs remplis de bonheur. On raconte que quiconque en mange un devient aimable envers tout le monde."
+
+#: app.py:34
+msgid "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down."
+msgstr "Raikou incarne la vitesse de l’éclair. Les rugissements de ce Pokémon libèrent des ondes de choc provenant du ciel et frappant le sol avec la puissance de la foudre."
+
+#: app.py:34
+msgid "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch."
+msgstr "Entei incarne la colère du magma. On pense que ce Pokémon est né suite à l’éruption d’un volcan. Il peut envoyer d’énormes jets de flammes qui calcinent tout ce qu’ils touchent."
+
+#: app.py:34
+msgid "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water."
+msgstr "Suicune incarne la tranquillité d’une source d’eau pure. Il parcourt les plaines avec grâce. Ce Pokémon a le pouvoir de purifier l’eau."
+
+#: app.py:34
+msgid "It feeds on soil. After it has eaten a large mountain, it will fall asleep so it can grow."
+msgstr "Il vit en se nourrissant de terre. Après avoir dévoré une montagne, il s’endort et entame sa croissance."
+
+#: app.py:34
+msgid "It will not stay still, even while it’s a pupa. It already has arms and legs under its solid shell."
+msgstr "Malgré son état de chrysalide, il ne reste pas immobile. Sous sa solide carapace, ses pattes sortent déjà."
+
+#: app.py:34
+msgid "The quakes caused when it walks make even great mountains crumble and change the surrounding terrain."
+msgstr "Son pas est si lourd qu’il fait trembler le sol et s’écrouler même les plus grandes montagnes, ce qui altère la topographie de la zone."
+
+#: app.py:34
+msgid "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea."
+msgstr "Les ailes de Lugia renferment une puissance dévastatrice. Un simple battement de ses ailes peut détruire de petites maisons. Du coup, ce Pokémon a choisi de vivre loin de tout, dans les profondeurs océaniques."
+
+#: app.py:34
+msgid "Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow."
+msgstr "Les plumes de Ho-Oh brillent de sept couleurs selon l’orientation de son corps par rapport à la lumière. On raconte que ces plumes portent bonheur. On dit aussi que ce Pokémon vit au pied d’un arc-en-ciel."
+
+#: app.py:34
+msgid "This Pokémon traveled through time to come from the future. It bolsters grass and trees with its own strength, and it can heal wounds, too."
+msgstr "Ce Pokémon venu du futur soigne les blessures et donne de la force aux plantes."
+
+#: app.py:34
+msgid "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground."
+msgstr "Arcko est cool, calme et serein. Il ne panique jamais, quelle que soit la situation. Quand un ennemi plus gros que lui lui lance un regard de défi, ce Pokémon reste stoïque et ne cède pas un centimètre de terrain."
+
+#: app.py:34
+msgid "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be."
+msgstr "Ce Pokémon vole de branche en branche avec brio. En forêt, aucun Pokémon, même le plus rapide, ne peut espérer attraper un Massko qui s’enfuit."
+
+#: app.py:34
+msgid "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care."
+msgstr "Jungko a des graines qui lui poussent sur le dos. On dit qu’elles regorgent de nutriments qui revitalisent les arbres. Ce Pokémon s’occupe des forêts avec amour."
+
+#: app.py:34
+msgid "Torchic has a place inside its body where it keeps its flame. Give it a hug—it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down."
+msgstr "Poussifeu dispose d’un endroit dans son corps pour stocker sa flamme. Si on lui fait un gros câlin, sa flamme s’illumine chaleureusement. Ce Pokémon est couvert d’un duvet très doux."
+
+#: app.py:34
+msgid "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting."
+msgstr "Galifeu combat grâce aux flammes ardentes qu’il crache de son bec et à ses coups de pied destructeurs. Le cri de ce Pokémon est très puissant et très gênant pour l’adversaire."
+
+#: app.py:34
+msgid "Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap. This Pokémon’s blazing punches leave its foes scorched and blackened."
+msgstr "Braségali a des jambes incroyablement puissantes. Il peut sauter par-dessus un immeuble de trente étages. Les coups de poing enflammés de ce Pokémon peuvent carboniser ses ennemis."
+
+#: app.py:34
+msgid "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself."
+msgstr "Sous l’eau, Gobou peut respirer grâce aux branchies sur ses joues. S’il se retrouve en difficulté pendant un combat, ce Pokémon déchaîne ses pouvoirs incroyables. Il peut détruire des rochers plus gros que lui."
+
+#: app.py:34
+msgid "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon’s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs."
+msgstr "Flobio est bien plus rapide dans la boue que dans l’eau. L’arrière-train de ce Pokémon est particulièrement développé, ce qui lui donne la capacité de marcher sur ses pattes arrière."
+
+#: app.py:34
+msgid "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself."
+msgstr "Laggron peut prédire l’arrivée des tempêtes en utilisant ses nageoires pour sentir les variations dans les vagues et les marées. Si une tempête s’approche, il empile des rochers pour protéger son habitat."
+
+#: app.py:34
+msgid "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out."
+msgstr "Medhyèna est omnivore. Il mange de tout. Ses crocs sont très gros, comparés à son corps. Ce Pokémon essaie d’intimider ses ennemis en hérissant les poils de sa queue."
+
+#: app.py:34
+msgid "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pokémon to obey only those Trainers that it recognizes to possess superior skill."
+msgstr "Les Grahyèna vivent et se déplacent en meute. Leurs réminiscences de la vie sauvage les poussent à n’obéir qu’aux Dresseurs qu’ils considèrent comme réellement talentueux."
+
+#: app.py:34
+msgid "Zigzagoon that adapted to regions outside Galar acquired this appearance. If you’ve lost something, this Pokémon can likely find it."
+msgstr "Le Zigzaton de Galar a adopté cette forme dans les autres régions. Il est très doué pour dénicher des choses."
+
+#: app.py:34
+msgid "It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit."
+msgstr "Il se sert de sa force de propulsion et de ses griffes aiguisées pour achever ses proies. Il a du mal à courir sur les routes sinueuses."
+
+#: app.py:34
+msgid "Likes sap and is abundant in the wild. Why it evolves into various different forms is unknown. One cannot tell from a Wurmple's appearance which form it will take when it evolves."
+msgstr "Chenipotte est la proie de Hélédelle. Ce Pokémon essaie de résister en dirigeant les pointes de son dos vers le prédateur. Il affaiblit son ennemi en lui injectant du poison."
+
+#: app.py:34
+msgid "Wraps itself in thin strings of silk while it stores energy for evolution. It can't extend its limbs and its movement is slow, but its eyes keep a sharp lookout—Silcoon is always on guard."
+msgstr "On pensait qu’Armulys pouvait résister à la faim et ne consommait rien avant son évolution. On sait maintenant que ce Pokémon étanche sa soif en récupérant l’eau de pluie déposée sur sa soie."
+
+#: app.py:34
+msgid "A colorful and incredibly beautiful but also greedy Pokémon. In an effort to keep its favorite food all to itself, it will chase away Combee as they try to gather nectar."
+msgstr "Charmillon a une longue trompe en spirale, particulièrement pratique pour récupérer le pollen des fleurs. Ce Pokémon se laisse porter par les vents printaniers pendant qu’il butine."
+
+#: app.py:34
+msgid "The silk coating its body is thin but sufficiently strong. Cascoon's silk has a luster and texture superior to that of Silcoon's, and clothes made using Cascoon silk are regarded as top-notch."
+msgstr "Lorsqu’il est attaqué, Blindalys reste immobile, même s’il a très mal. En effet, s’il bougeait, son corps serait affaibli lors de son évolution. En revanche, ce Pokémon n’oubliera pas la douleur endurée."
+
+#: app.py:34
+msgid "Tends to be drawn to bonfires on dark nights. Difficult to chase away from settlements because of the way it scatters highly toxic scales."
+msgstr "Lorsque Papinox bat des ailes, une légère poussière se répand. Cette poussière est en fait un puissant poison capable de mettre au tapis un boxeur professionnel. Ce Pokémon cherche sa nourriture avec ses antennes, comme un radar."
+
+#: app.py:34
+msgid "Its leaf grew too large for it to live on land. That is how it began to live floating in the water."
+msgstr "Sa feuille est devenue si grande et si lourde qu’il doit vivre en flottant sur l’eau."
+
+#: app.py:34
+msgid "It lives at the water’s edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night."
+msgstr "Il vit au bord de l’eau dans les endroits ensoleillés. Il s’endort sur un tas d’algues dans la journée et ne se lève qu’à la nuit tombée."
+
+#: app.py:34
+msgid "If it hears festive music, it begins moving in rhythm in order to amplify its power."
+msgstr "Il bouge son corps sur un rythme entraînant pour décupler ses forces."
+
+#: app.py:34
+msgid "It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall."
+msgstr "Il se suspend aux branches par l’extrémité de sa tête. Il arrive qu’une bourrasque le fasse tomber."
+
+#: app.py:34
+msgid "They live in holes bored in large trees. The sound of Nuzleaf’s grass flute fills listeners with dread."
+msgstr "Il vit dans les trous des grands arbres. Le sifflement qu’il produit avec sa feuille suffit à remplir ses adversaires d’effroi."
+
+#: app.py:34
+msgid "It lives quietly in the deep forest. It is said to create chilly winter winds with the fans it holds."
+msgstr "Il vit caché au fond des forêts. On raconte qu’il fait souffler la bise lorsqu’il agite ses grands éventails."
+
+#: app.py:34
+msgid "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests."
+msgstr "Nirondelle est jeune. Il vient de quitter son nid. Du coup, il se sent parfois un peu seul et pleure la nuit. Ce Pokémon se nourrit des Chenipotte qu’il trouve dans les forêts."
+
+#: app.py:34
+msgid "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings."
+msgstr "Hélédelle fait attention à bien entretenir ses ailes brillantes. Lorsque deux Hélédelle se rencontrent, ils se nettoient mutuellement les ailes avec attention."
+
+#: app.py:34
+msgid "It soars on updrafts without flapping its wings. It makes a nest on sheer cliffs at the sea’s edge."
+msgstr "Il niche dans les falaises. En utilisant les courants d’air, il peut voler sans battre des ailes."
+
+#: app.py:34
+msgid "Skimming the water’s surface, it dips its large bill in the sea, scoops up food and water, and carries it."
+msgstr "Avec son grand bec, il transporte de la nourriture qu’il a récoltée en volant la bouche ouverte au ras de la mer, gobant de l’eau au passage."
+
+#: app.py:34
+msgid "Tends to prefer people with a chipper disposition to those who are gloomy, but it has shown no discrimination with regard to age or gender. Needs more research."
+msgstr "Quand ses cornes rouges captent les ondes positives d’un Pokémon ou d’un humain, tout son corps se réchauffe."
+
+#: app.py:34
+msgid "It resembles a maiden in appearance, but it wields strange powers to project visions of paradise. I suspect the crimson ornaments on its head are the key to its abilities."
+msgstr "Il peut distordre l’espace-temps grâce à ses pouvoirs psychiques et ainsi voir l’avenir."
+
+#: app.py:34
+msgid "It will dedicate itself to defending a master it has come to adore. Its pure white dress, reminiscent of those worn by ladies of nobility, is the dress of one who is willing to risk their life."
+msgstr "Prêt à tout pour protéger son Dresseur, il peut aller jusqu’à épuiser sa force mentale pour créer un mini trou noir."
+
+#: app.py:34
+msgid "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar."
+msgstr "Il vit dans les lacs ou les marais où prospèrent les plantes hydrophiles. Il se dispute souvent proies et territoire avec son voisin, Araqua."
+
+#: app.py:34
+msgid "Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows."
+msgstr "Ses antennes en forme d’ailes absorbent facilement l’humidité. Par temps de pluie, il attend patiemment au creux d’un arbre."
+
+#: app.py:34
+msgid "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt."
+msgstr "Lorsque Balignon sent un danger, il secoue son corps et répand ses spores du haut de sa tête. Les spores de ce Pokémon sont si toxiques qu’elles font dépérir les arbres et les herbes."
+
+#: app.py:34
+msgid "The seeds ringing Breloom’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon’s seed will cause your stomach to rumble."
+msgstr "Les graines autour de la queue de Chapignon sont des spores toxiques. Elles sont totalement immangeables. Une simple bouchée d’une graine de ce Pokémon peut causer de grandes douleurs à l’estomac."
+
+#: app.py:34
+msgid "Slakoth’s heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this Pokémon in motion."
+msgstr "Le cœur de Parecool ne bat qu’une fois par minute. Quoi qu’il arrive, il se contente de s’avachir, immobile. Il est très rare de voir ce Pokémon se déplacer."
+
+#: app.py:34
+msgid "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokémon to run wild throughout the jungle before it can settle down."
+msgstr "Vigoroth ne tient pas en place. Même quand il essaie de dormir, le sang dans ses veines s’agite, obligeant ce Pokémon à courir comme un fou dans la forêt pour s’épuiser afin de pouvoir se reposer."
+
+#: app.py:34
+msgid "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground."
+msgstr "On trouve parfois des cercles de plus de 1 m de rayon totalement désherbés dans les plaines. Ils sont faits par les Monaflèmit qui passent leurs journées allongés à manger toute l’herbe à portée de main."
+
+#: app.py:34
+msgid "It can sometimes live underground for more than 10 years. It absorbs nutrients from the roots of trees."
+msgstr "Il peut passer plus de dix ans sous terre. Les racines des arbres constituent son régime alimentaire."
+
+#: app.py:34
+msgid "This Pokémon is so quick, it is said to be able to avoid any attack. It loves to feed on tree sap."
+msgstr "Ce Pokémon est tellement rapide qu’on le dit capable d’éviter toutes les attaques. Il adore se nourrir de la sève sucrée des arbres."
+
+#: app.py:34
+msgid "A strange Pokémon—it flies without moving its wings, has a hollow shell for a body, and does not breathe."
+msgstr "Cet étrange Pokémon, dont le corps est comme une coquille vide, ne respire pas et peut voler sans battre des ailes."
+
+#: app.py:34
+msgid "When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until it’s exhausted, then it falls asleep."
+msgstr "Quand il se met à crier, il se surprend lui-même et hurle de plus belle. Il continue ainsi jusqu’à ce qu’il se fatigue et tombe de sommeil."
+
+#: app.py:34
+msgid "The force of this Pokémon’s loud voice isn’t just the sound—it’s also the wave of air pressure that blows opponents away and damages them."
+msgstr "Ses hurlements n’affectent pas seulement l’ouïe ; ils provoquent aussi une onde de choc qui balaie les ennemis et leur inflige des dégâts."
+
+#: app.py:34
+msgid "This Pokémon can do more than just shout. To communicate with others of its kind, it’ll emit all sorts of sounds from the holes in its body."
+msgstr "Pour communiquer avec ses semblables, il n’utilise pas que son cri puissant ; il émet aussi des sons par les trous de son corps."
+
+#: app.py:34
+msgid "There’s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita."
+msgstr "Il existerait un plat mijoté traditionnel que les Dresseurs cuisinent pour rendre leur Makuhita encore plus fort."
+
+#: app.py:34
+msgid "Hariyama that are big and fat aren’t necessarily strong. There are some small ones that move nimbly and use moves skillfully."
+msgstr "Les Hariyama les plus forts ne sont pas forcément les plus grands. Les petits gabarits aussi ont plus d’un tour dans leur sac."
+
+#: app.py:34
+msgid "Although Azurill are normally docile, an angry one will swing around the big ball on its tail and try to smash its opponents."
+msgstr "C’est un Pokémon docile, mais si on l’énerve, il n’hésite pas à frapper en faisant tournoyer la grosse boule au bout de sa queue."
+
+#: app.py:34
+msgid "Once the people of Hisui discovered that its red nose always points north, they grew to rely on it greatly when traveling afar. The nose seems to work in a similar way to ancient compasses."
+msgstr "Grâce à sa force magnétique, il peut chasser ses proies sans se déplacer, mais il attire parfois ses pires ennemis."
+
+#: app.py:34
+msgid "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks."
+msgstr "On sait que Skitty court souvent après sa queue. À l’état sauvage, ce Pokémon vit dans les cavités des arbres de la forêt. Il est tellement adorable qu’il a un grand succès comme animal de compagnie."
+
+#: app.py:34
+msgid "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else."
+msgstr "Delcatty peut dormir n’importe où. Il n’a pas de nid permanent. Lorsque d’autres Pokémon lui cherchent des noises pendant son sommeil, il ne répond pas et se contente de partir dormir ailleurs."
+
+#: app.py:34
+msgid "It feeds on gemstone crystals. In darkness, its eyes sparkle with the glitter of jewels."
+msgstr "Ce Pokémon se nourrit de pierres précieuses. Dans les ténèbres, ses yeux brillent du reflet des joyaux."
+
+#: app.py:34
+msgid "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed."
+msgstr "Ses cornes d’acier forment une grande mâchoire avec laquelle il mord férocement ses adversaires."
+
+#: app.py:34
+msgid "When Aron evolves, its steel armor peels off. In ancient times, people would collect Aron’s shed armor and make good use of it in their daily lives."
+msgstr "Quand il évolue, il perd son armure d’acier. Autrefois, les gens la ramassaient pour en faire usage dans leur vie quotidienne."
+
+#: app.py:34
+msgid "During territorial disputes, Lairon fight by slamming into each other. Close inspection of their steel armor reveals scratches and dents."
+msgstr "Les Galegon se disputent les territoires en luttant au corps à corps, comme le montrent les éraflures sur leur armure d’acier."
+
+#: app.py:34
+msgid "Long ago, there was a king who wore a helmet meant to resemble the head of an Aggron. He was trying to channel the Pokémon’s strength."
+msgstr "Il y a fort longtemps, un roi portait un casque à l’effigie de Galeking, pensant qu’il pourrait ainsi s’approprier sa force."
+
+#: app.py:34
+msgid "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training."
+msgstr "Méditikka intensifie son énergie intérieure grâce à la méditation. Il lui suffit d’une Baie par jour pour survivre. La diète fait partie de l’entraînement de ce Pokémon."
+
+#: app.py:34
+msgid "Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to meditate for a whole month without eating."
+msgstr "Grâce au pouvoir de la méditation, Charmina a développé son sixième sens. Il peut utiliser des pouvoirs télékinétiques. On sait que ce Pokémon peut méditer pendant un mois sans manger."
+
+#: app.py:34
+msgid "It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry."
+msgstr "L’électricité statique s’accumule dans sa fourrure. Par temps sec, elle dégage des étincelles."
+
+#: app.py:34
+msgid "It rarely appears before people. It is said to nest where lightning has fallen."
+msgstr "Ce Pokémon évite de se montrer aux humains. On raconte qu’il fait son nid aux endroits où la foudre s’est abattue."
+
+#: app.py:34
+msgid "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly."
+msgstr "Quand Posipi veut encourager son partenaire, des étincelles jaillissent un peu partout de son corps. Si son partenaire perd, ce Pokémon pleure à chaudes larmes."
+
+#: app.py:34
+msgid "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks."
+msgstr "Négapi adore encourager son partenaire pendant les combats. Des étincelles jaillissent alors de son corps. Lorsque son partenaire est en difficulté, le corps de ce Pokémon libère encore plus d’étincelles."
+
+#: app.py:34
+msgid "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise."
+msgstr "La queue de Muciole éclaire comme une ampoule. Ensemble, les Muciole dessinent des figures géométriques dans la nuit étoilée. Ce Pokémon adore le parfum dégagé par Lumivole."
+
+#: app.py:34
+msgid "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky."
+msgstr "Lumivole dirige un vol de Muciole lumineux pour dessiner des figures dans la nuit étoilée. On raconte que ce Pokémon gagne le respect de ses pairs en composant des figures complexes dans le ciel."
+
+#: app.py:34
+msgid "Though beautiful, it has highly poisonous thorns. There is an old tradition in my homeland wherein one would send these thorns to an opponent to challenge them to a duel."
+msgstr "Ses mains sécrètent chacune un poison différent dont il se sert pour attaquer. Plus le parfum de Rosélia est intense, plus sa santé est bonne."
+
+#: app.py:34
+msgid "Most of Gulpin’s body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon’s stomach contains special enzymes that dissolve anything."
+msgstr "Le corps de Gloupti n’est pratiquement qu’un gros estomac. En comparaison, son cœur et son cerveau sont tout petits. L’estomac de ce Pokémon contient des enzymes spéciales capables de tout dissoudre."
+
+#: app.py:34
+msgid "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth."
+msgstr "Avaltout n’a pas de dents, ce qui le force à tout avaler en une bouchée. Quand il bâille, sa bouche prend une taille impressionnante, et on pourrait y placer une roue de voiture."
+
+#: app.py:34
+msgid "These Pokémon have sharp fangs and powerful jaws. Sailors avoid Carvanha dens at all costs."
+msgstr "Il possède une mâchoire puissante garnie de dents acérées. Les marins ne s’approchent jamais des eaux habitées par les Carvanha."
+
+#: app.py:34
+msgid "This Pokémon is known as the Bully of the Sea. Any ship entering the waters Sharpedo calls home will be attacked—no exceptions."
+msgstr "Surnommé le « tyran des mers », ce Pokémon attaque sans exception tous les navires qui osent s’aventurer sur son territoire."
+
+#: app.py:34
+msgid "When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily."
+msgstr "Il ressemble à un énorme ballon quand il avale de très grandes quantités d’eau de mer. Il dévore une tonne de nourriture par jour."
+
+#: app.py:34
+msgid "Its immense size is the reason for its popularity. Wailord watching is a favorite sightseeing activity in various parts of the world."
+msgstr "Sa taille fait de lui un Pokémon fascinant. Les sites touristiques proposant d’observer les Wailord ont toujours beaucoup de succès."
+
+#: app.py:34
+msgid "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish."
+msgstr "Chamallot stocke du magma à 1 200 °C dans son corps. Lorsqu’il est mouillé, le magma se refroidit et durcit. Le corps du Pokémon devient alors très lourd et ses mouvements très lents."
+
+#: app.py:34
+msgid "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged."
+msgstr "Les bosses sur le dos de Camérupt sont apparues après une déformation de ses os. Elles crachent parfois du magma en fusion. Ce Pokémon entre apparemment en éruption lorsqu’il est énervé."
+
+#: app.py:34
+msgid "You find abandoned coal mines full of them. They dig tirelessly in search of coal."
+msgstr "Les Chartor vivent en grand nombre dans les mines abandonnées, où ils extraient le charbon avec ardeur."
+
+#: app.py:34
+msgid "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon’s psychokinetic powers. It is therefore on a constant search for a bigger pearl."
+msgstr "Spoink garde une perle sur sa tête. Elle lui sert à amplifier ses pouvoirs télékinétiques. Il est constamment en quête d’une perle plus grosse."
+
+#: app.py:34
+msgid "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon’s black pearls are valuable as works of art."
+msgstr "Groret utilise les perles noires sur son corps pour exercer ses formidables pouvoirs. Quand il est en action, il entame une étrange danse. Les perles noires de ce Pokémon ont une valeur inestimable."
+
+#: app.py:34
+msgid "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!"
+msgstr "Chaque Spinda possède un pelage unique. Ce Pokémon esquive les attaques de son adversaire grâce à d’imprévisibles oscillations."
+
+#: app.py:34
+msgid "It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down."
+msgstr "Il creuse, puis attend ses proies dans son antre en forme de cône, dont il est impossible de s’échapper."
+
+#: app.py:34
+msgid "To help make its wings grow, it dissolves quantities of prey in its digestive juices and guzzles them down every day."
+msgstr "Pour aider ses ailes à pousser, il se nourrit chaque jour d’un grand nombre de proies qu’il dissout en projetant de l’acide."
+
+#: app.py:34
+msgid "It is nicknamed the Desert Spirit because the flapping of its wings sounds like a woman singing."
+msgstr "On l’appelle « l’esprit du désert », car ses battements d’ailes résonnent comme une mélodie entonnée par une voix douce."
+
+#: app.py:34
+msgid "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms."
+msgstr "Si son environnement est aride et difficile, la fleur de Cacnea devient plus jolie et dégage un parfum délicat. Ce Pokémon se bat en agitant ses bras épineux."
+
+#: app.py:34
+msgid "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving."
+msgstr "Lorsqu’un voyageur traverse le désert au milieu de la nuit, les Cacturne le suivent en groupe. Ces Pokémon attendent le bon moment, quand le voyageur est fatigué et qu’il n’est plus capable de bouger."
+
+#: app.py:34
+msgid "Since Swablu looks like a cumulus cloud, foes can have a hard time finding it. Apparently its wings turned white over many generations."
+msgstr "Ses ailes en forme de nuage le dissimulent aux yeux des ennemis. On raconte qu’elles sont devenues blanches après plusieurs générations."
+
+#: app.py:34
+msgid "This Pokémon has a kind disposition, but if it’s provoked, it will threaten opponents with shrill cries before attacking them without mercy."
+msgstr "Il est de nature aimable, mais si on le met en colère, il intimide son adversaire en poussant un cri strident et l’attaque sans pitié."
+
+#: app.py:34
+msgid "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations."
+msgstr "Mangriff est généralement à quatre pattes, mais lorsqu’il est en colère, il se lève sur ses pattes arrière et montre ses griffes. Ce Pokémon est l’ennemi juré de Séviper depuis plusieurs générations."
+
+#: app.py:34
+msgid "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose."
+msgstr "La queue tranchante comme un sabre de Séviper a deux fonctions : elle peut frapper l’ennemi et lui injecter un poison qu’il sécrète. Ce Pokémon n’oublie jamais sa vieille rancune envers Mangriff."
+
+#: app.py:34
+msgid "It was discovered at the site of a meteor strike 40 years ago. Its stare can lull its foes to sleep."
+msgstr "Il a été découvert dans le cratère d’une météorite il y a 40 ans. Un simple regard de sa part endort ses ennemis."
+
+#: app.py:34
+msgid "Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines."
+msgstr "Tirant sa force de l’énergie solaire, il est particulièrement puissant pendant la journée. Il s’illumine quand il tourne."
+
+#: app.py:34
+msgid "Makes its home in swamps with murky water. The poor visibility hides this Pokémon from predators, and the slime on its body makes grasping it difficult."
+msgstr "Il sonde les bords boueux des rivières avec ses barbillons. Un film fin et visqueux protège tout son corps."
+
+#: app.py:34
+msgid "Strikes its caudal fin against the swamp bed to shake the ground and startle its prey. It will then swallow the fleeing prey whole. People mistook this behavior as the cause of earthquakes."
+msgstr "Il a besoin d’un marais entier pour vivre. Si un ennemi s’approche, il s’énerve et déclenche un séisme."
+
+#: app.py:34
+msgid "It was originally a Pokémon from afar that escaped to the wild. It can adapt to the dirtiest river."
+msgstr "Un Pokémon importé, retourné à l’état sauvage. Il s’adapte même aux rivières les plus polluées."
+
+#: app.py:34
+msgid "A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest."
+msgstr "Il adore se battre et frappe comme une brute tous ceux qui approchent de sa mare."
+
+#: app.py:34
+msgid "It was discovered in ancient ruins. While moving, it constantly spins. It stands on one foot even when asleep."
+msgstr "Ce Pokémon découvert dans des ruines anciennes tourne sur lui-même pour se déplacer. Il se tient toujours sur un pied, même quand il dort."
+
+#: app.py:34
+msgid "It appears to have been born from clay dolls made by ancient people. It uses telekinesis to float and move."
+msgstr "Ce Pokémon aurait été créé à partir d’une poupée d’argile confectionnée par une ancienne civilisation. Il se déplace en lévitant."
+
+#: app.py:34
+msgid "Lileep clings to rocks on the seabed. When prey comes close, this Pokémon entangles it with petallike tentacles."
+msgstr "Accroché aux rochers des profondeurs, il attend qu’une proie s’approche de lui pour l’attraper avec ses tentacules en forme de pétales."
+
+#: app.py:34
+msgid "Once Cradily catches prey in its tentacles, it digests them whole and absorbs their nutrients."
+msgstr "Il attrape ses proies à l’aide de ses tentacules, puis les dissout immédiatement avec ses sucs digestifs pour en absorber les nutriments."
+
+#: app.py:34
+msgid "Anorith can swim swiftly by pulling its eight wings through the water like oars on a boat. This Pokémon is an ancestor of modern bug Pokémon."
+msgstr "Ce Pokémon peut nager très vite en agitant ses huit ailes comme des rames de bateau. Il fait partie des ancêtres des Pokémon Insecte."
+
+#: app.py:34
+msgid "Though it lives on land, it’s also a good swimmer. It dives into the ocean in search of prey, using its sharp claws to take down its quarry."
+msgstr "Bien que vivant sur la terre ferme, il est très bon nageur. Il plonge dans la mer à la recherche de proies et les abat avec ses pinces acérées."
+
+#: app.py:34
+msgid "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water."
+msgstr "Ce Pokémon a peut-être un physique disgracieux, mais il est robuste et peut survivre dans très peu d’eau."
+
+#: app.py:34
+msgid "It’s said that a glimpse of a Milotic and its beauty will calm any hostile emotions you’re feeling."
+msgstr "On dit que la beauté de ce Pokémon est telle qu’elle apaise l’esprit de ceux qui le voient."
+
+#: app.py:34
+msgid "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!"
+msgstr "Il n’y a pas que son apparence qui change en fonction de la météo : son tempérament aussi ! Plus il y a de vent, plus il se montre agressif."
+
+#: app.py:34
+msgid "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is."
+msgstr "Sa couleur change quand il se cache, mais varie aussi selon son humeur et son état de santé : plus il est en forme, plus sa couleur est vive."
+
+#: app.py:34
+msgid "There’s a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”"
+msgstr "Il existe un proverbe ancien qui dit : « Fuis la demeure où les Polichombr se rassemblent en nombre à la pénombre. »"
+
+#: app.py:34
+msgid "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy."
+msgstr "Il est né de la rancune qu’il a ressentie quand il a été abandonné. Il redevient apparemment une poupée si l’on en prend grand soin."
+
+#: app.py:34
+msgid "I've heard that the children of Hisui all begin to behave once they've been told the story of how this Pokémon roams about before the witching hour to spirit away misbehaving children."
+msgstr "Ce Pokémon devient invisible pour se rapprocher furtivement de ses proies. Il a le pouvoir de traverser les murs."
+
+#: app.py:34
+msgid "There are rumors that peeking inside its bandage-wrapped body will cause one to get pulled in through the gaps between the bandages, never to return. I've been too scared to verify."
+msgstr "Il cherche des feux follets pour les avaler. Ce qu’il se passe alors à l’intérieur de son corps vide est un mystère."
+
+#: app.py:34
+msgid "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius."
+msgstr "Dans les régions où il fait chaud, on trouve des fermes dédiées à l’élevage de ce Pokémon, très apprécié pour les fruits poussant sur son cou."
+
+#: app.py:34
+msgid "Can emit waves of air powerful enough to knock out prey taller than itself. I hypothesize that it amplifies the faint sound of wind within its body."
+msgstr "Lorsqu’il y a beaucoup de vent, Éoko pousse des cris, accroché à une branche ou à un auvent par une ventouse placée sur sa tête. Ce Pokémon attrape des Baies avec sa longue queue pour les manger."
+
+#: app.py:34
+msgid "Because of this Pokémon’s ability to detect danger, people mistook Absol as a bringer of doom."
+msgstr "Sa capacité à pressentir le danger lui a autrefois valu la réputation de porter malheur."
+
+#: app.py:34
+msgid "It tends to move in a pack with others. They cluster in a tight group to sleep in a cave."
+msgstr "Ces Pokémon adorent se déplacer en groupe. Ils se blottissent les uns contre les autres dans des cavernes pour dormir."
+
+#: app.py:34
+msgid "Arrives alongside the first snow. It's thought that homes Snorunt visit will prosper for many generations. By tradition, one might offer a lump of ice made from pure water at one's front door."
+msgstr "Il ne peut vivre que dans les plus froides contrées. Il s’accommode parfaitement de températures atteignant les - 100 °C."
+
+#: app.py:34
+msgid "It covers its body with an armor of ice harder than steel. Uses its breath to freeze prey, which it then devours as if they were frozen desserts."
+msgstr "Il a le pouvoir de geler l’humidité ambiante en un instant et peut ainsi immobiliser ses proies."
+
+#: app.py:34
+msgid "During the season when drift ice approaches the shore, Spheal prefers living on the ice—where fewer predators lurk—rather than the land. Its fur retains heat superbly and resists harsh cold."
+msgstr "Il scrute la mer en se laissant porter par les vagues. Lorsqu’il repère des proies, il avertit les Kaimorse du groupe."
+
+#: app.py:34
+msgid "Its white whiskers are very sensitive. Sealeo will balance Spheal on the tip of its nose, checking its scent and its feel to be sure the Spheal is healthy."
+msgstr "Il ne peut pas s’empêcher de faire tourner sur son museau tout ce qui a une forme sphérique, comme les Obalie ou les Poké Balls."
+
+#: app.py:34
+msgid "Its thick tusks are strong enough to shatter drift ice. They have been known to break, but they will grow back by the next year. The Hisui region is well known for these broken tusks."
+msgstr "Ses défenses poussent tout au long de sa vie. Si l’une d’elles se brise au cours d’un combat, au bout d’un an, elle aura repoussé entièrement."
+
+#: app.py:34
+msgid "Clamperl’s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder’s pearls."
+msgstr "La perle de Coquiperl est tellement précieuse qu’elle peut valoir plus de dix fois la valeur de celle de Kokiyas."
+
+#: app.py:34
+msgid "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen."
+msgstr "Il habite dans les profondeurs de l’océan. Un Serpang trouvé sur la plage serait un mauvais présage."
+
+#: app.py:34
+msgid "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon."
+msgstr "Il se nourrit en aspirant les fluides corporels de ses proies. Le reste tombe au fond de la mer, nourrissant ainsi d’autres Pokémon."
+
+#: app.py:34
+msgid "This Pokémon was discovered during deep-sea exploration. Its appearance hasn’t changed in 100,000,000 years, so it’s called a living fossil."
+msgstr "Découvert lors d’une expédition dans les abysses, son apparence inchangée depuis 100 millions d’années lui a valu le surnom de « fossile vivant »."
+
+#: app.py:34
+msgid "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola’s branches."
+msgstr "Il vit dans les récifs coralliens des mers chaudes, et aime particulièrement dormir entre les cornes des Corayon."
+
+#: app.py:34
+msgid "Bagon is a solitary Pokémon that doesn’t form groups with others of its kind. It also has a head hard enough to cleave a boulder in one strike."
+msgstr "La tête de ce Pokémon solitaire est si solide qu’il est capable de fendre en deux un rocher d’un seul coup."
+
+#: app.py:34
+msgid "Shelgon ignores its hunger entirely, never eating any food. Apparently, Shelgon will evolve once all its energy stores are used up."
+msgstr "Il se prive de nourriture, résistant à la faim. On dit que son évolution commence lorsque ses réserves d’énergie sont épuisées."
+
+#: app.py:34
+msgid "While basking in the joy of flight generally keeps this Pokémon in high spirits, Salamence turns into an uncontrollable menace if something angers it."
+msgstr "Heureux de pouvoir voler dans le ciel, il est souvent de bonne humeur, mais il devient incontrôlable lorsqu’on le met en colère."
+
+#: app.py:34
+msgid "The cells in this Pokémon’s body are composed of magnetic material. Instead of blood, magnetic forces flow through Beldum’s body."
+msgstr "Les cellules de son corps sont composées d’aimants. Une force magnétique coule dans ses veines à la place du sang."
+
+#: app.py:34
+msgid "Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey."
+msgstr "Ce Pokémon vole par magnétisme. Il poursuit ses proies en slalomant à toute allure entre les pics escarpés."
+
+#: app.py:34
+msgid "Metagross is the result of the fusion of two Metang. This Pokémon defeats its opponents through use of its supercomputer-level brain."
+msgstr "Né de la fusion de deux Métang, il vient à bout de ses ennemis grâce à son cerveau qui est aussi performant qu’un superordinateur."
+
+#: app.py:34
+msgid "Cutting-edge technology was used to study the internals of this Pokémon’s rock body, but nothing was found—not even a brain or a heart."
+msgstr "Bien que son corps de pierre ait été examiné avec les technologies les plus modernes, nulle trace de cerveau ou de cœur n’a été trouvée."
+
+#: app.py:34
+msgid "This Pokémon’s body is made of solid ice. It’s said that Regice was born beneath thick ice in the ice age."
+msgstr "Ce Pokémon de l’ère glaciaire dont le corps est entièrement composé d’eau gelée serait né sous une épaisse couche de glace."
+
+#: app.py:34
+msgid "It’s rumored that this Pokémon was born deep underground in the planet’s mantle and that it emerged onto the surface 10,000 years ago."
+msgstr "Il paraît qu’il est né dans le manteau terrestre et qu’il en a émergé il y a environ 10 000 ans."
+
+#: app.py:34
+msgid "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance."
+msgstr "Latias est très intelligent et comprend le langage des hommes. Il est recouvert d’une espèce de duvet ressemblant à du verre. Ce Pokémon s’enveloppe dans ce duvet et reflète la lumière pour changer son apparence."
+
+#: app.py:34
+msgid "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance."
+msgstr "Latios n’ouvrira son cœur qu’à un Dresseur doté d’un esprit compatissant. Ce Pokémon peut voler plus vite qu’un avion à réaction en repliant ses pattes avant pour améliorer son aérodynamisme."
+
+#: app.py:34
+msgid "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature."
+msgstr "Un Pokémon considéré comme l’avatar des océans. Selon les légendes, il a disputé de nombreux combats avec Groudon pour contrôler l’énergie de la nature."
+
+#: app.py:34
+msgid "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world."
+msgstr "Grâce à l’énergie de la nature, il peut accomplir sa Primo-Résurgence pour retrouver son apparence originelle. Ce pouvoir lui permet de créer du magma pour étendre les continents."
+
+#: app.py:34
+msgid "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve."
+msgstr "Un Pokémon qui vit dans la couche d’ozone et se nourrit des météorites qu’il intercepte. Leur énergie s’accumule dans son corps, ce qui lui permet de méga-évoluer."
+
+#: app.py:34
+msgid "It’s believed that when this Pokémon wakes from its 1,000-year slumber, it will grant any wishes written on the notes attached to its head."
+msgstr "On raconte que lorsqu’il se réveille de son sommeil millénaire, il exauce les vœux écrits sur les rubans de papier de sa tête."
+
+#: app.py:34
+msgid "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest."
+msgstr "Deoxys était à l’origine un virus provenant de l’espace. Il est extrêmement intelligent et dispose de pouvoirs télékinétiques. Ce Pokémon envoie des lasers avec l’organe cristallin situé sur sa poitrine."
+
+#: app.py:34
+msgid "This Pokémon becomes more energetic the more sunlight there is. The part resembling a shell is similar to silt and is slightly damp and warm to the touch."
+msgstr "Son corps produit de l’oxygène par photosynthèse. La feuille sur sa tête flétrit quand il a soif."
+
+#: app.py:34
+msgid "Appears where there is clean spring water. The fruit that grows on the shrubs on its shell is sweet, nutritious, and truly delicious."
+msgstr "Il sait d’instinct où trouver une source d’eau pure. Il y transporte d’autres Pokémon sur son dos."
+
+#: app.py:34
+msgid "This remarkable, large-bodied Pokémon would serve beautifully as borrowed scenery for a garden, and its strength is peerless. Torterra roams the wilderness in search of clean water."
+msgstr "Il arrive que de petits Pokémon se rassemblent sur son dos immobile pour y faire leur nid."
+
+#: app.py:34
+msgid "Full of vigor and always in high spirits. It was once known by the name ”Lantern-Tail” and feared as some kind of apparition."
+msgstr "La flamme de son postérieur brûle grâce à un gaz de son estomac. Elle faiblit quand il ne va pas bien."
+
+#: app.py:34
+msgid "The deeper the blue on its face, the more powerful it will grow to become. It leaps about every which way and lands powerful blows against its opponents with the flame on its tail."
+msgstr "Il attaque en prenant appui sur les murs et les plafonds. Sa queue ardente n’est pas son seul atout."
+
+#: app.py:34
+msgid "A tall, hardy Pokémon with a dazzling appearance. It shrouds itself in flame and battles as if engaged in dance—truly a sight to behold."
+msgstr "Il fait voltiger ses ennemis grâce à sa vitesse et son style de combat spécial qui utilise ses quatre membres."
+
+#: app.py:34
+msgid "Prefers cold climes and appears along coasts. It's an adorable little thing—as cute as any child—but it's also prideful, unwilling to accept handouts from people."
+msgstr "Il est fier et déteste accepter la nourriture qu’on lui offre. Son pelage épais le protège du froid."
+
+#: app.py:34
+msgid "It swims gracefully through the frigid sea and sings with a voice like the roaring tide. It has powerful, sturdy wings and dignity to match."
+msgstr "C’est un Pokémon solitaire. Un seul coup de ses puissantes ailes peut briser un arbre en deux."
+
+#: app.py:34
+msgid "Since ancient times, it has been revered by the people of Hisui, who call it the Master of the Waves. Its wings are a match for even master-crafted blades."
+msgstr "Les trois cornes de son bec sont le symbole de sa force. Celles du chef sont plus grosses que les autres."
+
+#: app.py:34
+msgid "They live in the fields and mountains, gathering in large flocks. Their cries are quite obnoxious. Though small, their wings are strong—a strike from them leaves pain that persists for a week."
+msgstr "Ce Pokémon très bruyant parcourt champs et forêts en nuées pour chasser les Pokémon Insecte."
+
+#: app.py:34
+msgid "They form remarkably large flocks and are constantly fighting amongst themselves. I suspect that those with magnificent plumes on their heads are the strong ones."
+msgstr "Il peuple les champs et les forêts. Lorsque deux volées se croisent, elles luttent pour le territoire."
+
+#: app.py:34
+msgid "It has left the flock, having gained strength enough to survive on its own. The astounding force with which Staraptor flies through the air allows it to carry away large, burly targets."
+msgstr "Lorsque Étourvol évolue en Étouraptor, il quitte son groupe pour vivre seul. Ses ailes sont très développées."
+
+#: app.py:34
+msgid "Bidoof has an unsophisticated face and is rarely flustered by anything. There have been incidents involving Bidoof sauntering into villages and gnawing on the houses without a single care."
+msgstr "Il ronge constamment des troncs et des pierres pour se faire les incisives. Il niche le long de l’eau."
+
+#: app.py:34
+msgid "Bibarel fur repels water and is also a fantastic material for heat retention. These Pokémon create dams on rivers to live in."
+msgstr "Il construit des barrages de boue et d’écorce le long des fleuves. C’est un ouvrier de renom."
+
+#: app.py:34
+msgid "When the trees take on new hues, more of these Pokémon appear. The tone they create by striking their antennae together resembles that of the marimba, an instrument of foreign lands."
+msgstr "Quand ses antennes s’entrechoquent, elles laissent échapper un bruit de xylophone."
+
+#: app.py:34
+msgid "It uses its cutlass-like arms to produce sound, the melody of which varies from individual to individual. It is a worthwhile endeavor to seek out one's favorite tunes."
+msgstr "Il exprime ses émotions par des mélodies. Les scientifiques étudient actuellement leur structure."
+
+#: app.py:34
+msgid "Shakes its body to generate electricity. Its stature belies its aggression—one must be patient to tame this Pokémon."
+msgstr "Sa fourrure s’illumine grâce à l’électricité. Il agite l’extrémité lumineuse de sa queue pour envoyer des signes à ses congénères."
+
+#: app.py:34
+msgid "Proudly uses its electrified claws as weapons. It seems to be a gracious Pokémon, evenly sharing the spoils of the hunt with others of its kind."
+msgstr "Quand il croise un ennemi, il se prépare au combat en sortant ses griffes dont les coups ont une puissance qui atteint un million de volts."
+
+#: app.py:34
+msgid "They form packs, each having one male as leader. Legends say that when Luxray's two eyes shimmer with gold, the Pokémon can see through anything."
+msgstr "Il dort beaucoup pour récupérer la quantité d’énergie électrique énorme qu’il consomme afin de voir à travers la matière."
+
+#: app.py:34
+msgid "When the sun's light strengthens, the bud atop this Pokémon's head opens. This is a sign to the people that the harsh winter is over, and the season of budding has begun."
+msgstr "Il est sensible aux variations de température. Quand son bourgeon commence à s’ouvrir, l’arrivée du printemps est imminente."
+
+#: app.py:34
+msgid "Hidden within the bouquet on each hand are thorned whips loaded with virulent poison. Roserade moves gracefully as it corners its prey and mercilessly lashes them with its whips."
+msgstr "Sa main gauche administre un poison lent, et la droite, un poison foudroyant. Les deux peuvent être fatals."
+
+#: app.py:34
+msgid "An incredibly rare sight. They duel each other by ramming their heads together, and the resulting sound echoes throughout the area like the pealing of a bell."
+msgstr "Son crâne extrêmement solide est sa principale caractéristique. Il s’en servait pour faire tomber des arbres les Baies dont il se nourrissait."
+
+#: app.py:34
+msgid "Very little is known about its biology. Can knock down massive trees by smashing its beautiful, pearl-like crown against them."
+msgstr "Pokémon préhistorique célèbre pour ses coups de tête puissants et son petit cerveau, son extinction serait due à son extrême bêtise."
+
+#: app.py:34
+msgid "Much remains unknown about this Pokémon, as few have ever seen it. However, we know that it is calm and dislikes conflict, and it enjoys polishing its face against trees and rocks."
+msgstr "On retrouve des fossiles de Dinoclier dans les couches sédimentaires préhistoriques, mais seule sa tête a résisté à l’épreuve du temps."
+
+#: app.py:34
+msgid "Its face is sturdy—as strong as diamond—and this hardness offers a very stable defense. Much about this species is still unknown, such as its natural habitat."
+msgstr "Un Pokémon éteint depuis environ 100 millions d’années. Sa tête incroyablement solide était plus dure que l’acier."
+
+#: app.py:34
+msgid "If its cloak is even slightly damaged, Burmy will immediately repair it with whatever is close at hand. The Pokémon within the cloak is scrawny and vulnerable to the cold."
+msgstr "S’il perd sa cape au combat, il en tisse rapidement une nouvelle avec ce qui lui tombe sous la main."
+
+#: app.py:34
+msgid "When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed."
+msgstr "Quand Cheniti a évolué, sa cape a fusionné avec son corps. Cheniselle ne s’en sépare jamais."
+
+#: app.py:34
+msgid "Scatters steel-colored scales as it flaps its wings. Despite being observed feeding primarily on the nectar of flowers, Mothim is not often seen around flower gardens."
+msgstr "Ce Pokémon s’active à la nuit tombée pour voler le miel des Apitrini pendant leur sommeil."
+
+#: app.py:34
+msgid "They swear fealty to a queen Pokémon and work diligently to gather nectar. Each swarm produces a different flavor of honey."
+msgstr "Du lever du soleil à la tombée de la nuit, il récolte du nectar pour Apireine et sa colonie."
+
+#: app.py:34
+msgid "Commands its subjects to build its hive. It will dispatch any interlopers who dare sneak into its nest and use them as nourishment for itself."
+msgstr "Plus la quantité de phéromones qu’il libère est élevée, plus le nombre d’Apitrini qu’il peut diriger est grand."
+
+#: app.py:34
+msgid "A species related to the Pikachu line. Though Pachirisu is a calm Pokémon, it still presents a danger should one touch its electrified tail or cheeks."
+msgstr "Il arrive que deux Pachirisu se frottent les joues pour partager l’électricité qu’ils ont accumulée."
+
+#: app.py:34
+msgid "It moves freely in the water by spinning its forked tail for propulsion. The resemblance to the screw of a steamboat is coincidental."
+msgstr "Il utilise la bouée autour de son cou pour passer sa tête hors de l’eau et observer les alentours."
+
+#: app.py:34
+msgid "Has a long, rather splendid flotation sac, which prevents Floatzel from drowning even in stormy seas. One might glimpse this species around fishing hamlets from time to time."
+msgstr "Il a développé une bouée pour poursuivre ses proies aquatiques. Elle fait office de canot gonflable."
+
+#: app.py:34
+msgid "Once the fruit growing alongside the main body is large and plump, Cherubi will use the nutrients within to evolve. The fruit then detaches, becoming nourishment for other creatures."
+msgstr "Plus son corps est rouge, plus la saveur de sa petite boule gorgée de nutriments est sucrée et délicieuse."
+
+#: app.py:34
+msgid "Motionless, save for the occasional quiver. A rich array of Pokémon can be found gathered around it, drawn by the scent exuded from Cherrim's folded petals."
+msgstr "Lorsqu’il se ferme, ses pétales sont si durs qu’il ne craint plus les attaques des Pokémon oiseaux."
+
+#: app.py:34
+msgid "Found in abundance on seashores bordering warm waters. Shellos are unexpectedly friendly and will crawl toward any person they see. Take care not to get coated in mucus!"
+msgstr "Si on le caresse trop fort, il sécrète un étrange liquide mauve qui est inoffensif, mais dont la texture est très gluante."
+
+#: app.py:34
+msgid "Eats beach sand for nourishment. Should one Gastrodon encounter another of a different color, a fierce battle will inevitably ensue."
+msgstr "Son corps est caoutchouteux, mais très résistant, car la puissance des chocs qu’il subit se répand sur toute sa surface."
+
+#: app.py:34
+msgid "To affirm their kinship, members of this species will form a ring by linking their newly doubled tails together. On rare occasions, humans have been accepted into such rings."
+msgstr "Il utilise toujours ses deux queues pour faire la moindre tâche. Il s’en sert aussi pour enlacer les gens qu’il affectionne tout particulièrement."
+
+#: app.py:34
+msgid "Said to lure away young children and carry them off to the afterlife. Some whisper that Drifloon are formed of reincarnated human souls, but these rumors are as yet unconfirmed."
+msgstr "Nés d’une concentration d’âmes, ces Pokémon peuvent apparaître en grand nombre les jours où le taux d’humidité est élevé."
+
+#: app.py:34
+msgid "It drifts along at dusk, perfectly silent. Its transient, melancholy aspect touches some people deeply—every so often, one will come upon a song or poem devoted to Drifblim."
+msgstr "Il attrape des personnes et des Pokémon pour les transporter vers une destination inconnue."
+
+#: app.py:34
+msgid "My hypothesis as to why Buneary rolls up its ears is that its hearing is far too keen. I surmise that the Pokémon protects its hearing by limiting the sound that may enter its ears."
+msgstr "Plus il s’entraîne, plus les coups qu’il assène en déroulant vigoureusement ses oreilles gagnent en puissance."
+
+#: app.py:34
+msgid "Its fur is warm and yet remarkably light. This Pokémon kicks as though it were a master of karate, driving back its opponents with ease."
+msgstr "À la fin de la saison chaude, il mue et se recouvre d’une fourrure épaisse et légère pour se préparer à affronter le froid hivernal."
+
+#: app.py:34
+msgid "The incantations Mismagius chants can ward against misfortune, so a custom exists of inviting it into one's home. Incur the Pokémon's displeasure, however, and disaster will surely ensue."
+msgstr "Il susurre des malédictions pour tourmenter ses ennemis et leur infliger de terribles migraines ou des hallucinations terrifiantes."
+
+#: app.py:34
+msgid "One cry from this Pokémon, and a murder of Murkrow come flying. At such times, one would think the curtain of night had fallen, plunging the world into jet-black darkness."
+msgstr "Ses sous-fifres font le sale boulot pour lui. Il n’intervient en combat que pour donner le coup de grâce à son ennemi."
+
+#: app.py:34
+msgid "Bewitches humans with its helical tail and piercing gaze. Its hidden claws are quite sharp as well, making this Pokémon an exceedingly tricky opponent if antagonized."
+msgstr "Lorsqu’il est heureux, sa queue décrit des arabesques comme un ruban de gymnastique rythmique."
+
+#: app.py:34
+msgid "Though impudent and difficult to tame, Purugly enjoys great popularity due to its fur, the beauty of which surpasses even velveteen."
+msgstr "Il ceinture sa taille de sa queue bifide pour paraître plus imposant."
+
+#: app.py:34
+msgid "This Pokémon gave me an excruciating headache when it seemingly cried out without making a sound. Perhaps there are some sounds that the human ear is simply incapable of hearing."
+msgstr "Quand il sautille, l’orbe qu’il a dans la bouche s’agite et tinte comme une cloche."
+
+#: app.py:34
+msgid "The poison that gushes from its aft end is accompanied by an utterly evil-smelling odor with such potency that one whiff can induce memory loss."
+msgstr "S’il lève la queue, c’est qu’il s’apprête à projeter un liquide tellement nauséabond qu’il peut faire perdre connaissance."
+
+#: app.py:34
+msgid "Sprays a poisonous fluid to take down prey. Sometimes, unable to stomach the stench of its own fluid, it leaves the bested prey uneaten."
+msgstr "Ce Pokémon, qui creuse son terrier dans le sol, peut projeter un liquide à l’odeur infecte avec le bout de sa queue."
+
+#: app.py:34
+msgid "Floats using a mysterious energy. The pattern engraved upon its back is held as sacred and can sometimes be found in imagery from ancient cemeteries and other such timeworn places."
+msgstr "On raconte qu’il se met à briller et à refléter la vérité quand on le polit, mais il a horreur de cela."
+
+#: app.py:34
+msgid "Some believe that its bell-like cry opens holes to another world. It has been revered as a deity since ancient times."
+msgstr "De nombreux savants pensent que ce Pokémon n’est pas originaire de Galar à cause des motifs qui ornent son corps."
+
+#: app.py:34
+msgid "Its tears elicit sympathy from those who see them, but do not be deceived! This expulsion of body water is merely a physiological mechanism for keeping itself in good health."
+msgstr "Il vit dans les zones rocheuses arides. Quand ses boules vertes sont sèches, elles se mettent à briller légèrement."
+
+#: app.py:34
+msgid "Known to turn up in bustling marketplaces now and again. It mimics people much as a child would, then watches how they react, eyes sparkling."
+msgstr "Il considère les meilleurs danseurs parmi les M. Glaquette comme ses maîtres et s’évertue à mimer leurs mouvements."
+
+#: app.py:34
+msgid "In imitation of Chansey, it keeps a round stone tucked into its belly pouch and cherishes it dearly. It gets along well with children and will sometimes play house with them for fun."
+msgstr "Il prête volontiers son caillou rond à ceux qu’il apprécie, mais éclate en sanglots et se met en colère si on ne le lui rend pas."
+
+#: app.py:34
+msgid "A versatile performer skilled in the imitation of human speech. It is said that older, more experienced Chatot can even understand the meaning of the words they mimic."
+msgstr "On peut lui enseigner quelques mots. S’il s’agit d’un groupe, ils retiendront les mêmes phrases."
+
+#: app.py:34
+msgid "It lays curses by thinking wicked thoughts. Writings tell that this Pokémon was born out of the assembly of five score and eight malevolent spirits."
+msgstr "Pour punir son comportement déplorable, un voyageur a utilisé un mystérieux sortilège pour l’enchaîner à une Clé de Voûte."
+
+#: app.py:34
+msgid "It nests in caves untouched by sunlight. Its sharp teeth may fall out when worn away or after an impact, but they regrow within a few days."
+msgstr "Il attaque et entraîne dans son antre tout ce qui bouge, sans distinction. Sa gueule est immense, mais son estomac est relativement petit."
+
+#: app.py:34
+msgid "Though Gabite are usually of a violent disposition, when I gave one a glass bead it had been eyeing covetously, it suddenly became quite docile."
+msgstr "Il cache des pierres précieuses dans le sol de sa grotte, et accueille à coups de griffes et de crocs quiconque ose y pénétrer."
+
+#: app.py:34
+msgid "Soars across the heavens at blinding speed—a magnificent sight! It has a feral disposition. Utmost caution is required if one meets a Garchomp out in the wilds."
+msgstr "Ce Pokémon très rapide même au sol capture ses proies sur les monts enneigés et rentre vite dans son antre avant que son corps ne gèle."
+
+#: app.py:34
+msgid "Its robust stomach allows it to nonchalantly devour even rotted matter. It pays frequent visits to villages, seeking out food scraps intended for compost."
+msgstr "Il conserve sa nourriture sous son épaisse fourrure. Il lui arrive d’en offrir un peu à ceux en qui il a confiance."
+
+#: app.py:34
+msgid "Though infantile in appearance, it has the mysterious ability to read the minds of humans. The pure of heart are met with Riolu's approval, while those of ill nature earn only its loathing."
+msgstr "Il perçoit sous forme d’aura non seulement les sentiments des autres, mais aussi l’état de la nature."
+
+#: app.py:34
+msgid "A most gallant-looking creature. It emits energy waves and controls them with precision, using them to sense even faraway beings. I have given the name ”aura” to this power."
+msgstr "Étant capable de lire ce que pensent les humains, ce Pokémon ne s’attache qu’aux Dresseurs dotés d’un cœur pur."
+
+#: app.py:34
+msgid "Though large and languid, Hippopotas is difficult to detect due to its tendency to burrow into and lurk beneath the soil. When agitated or excited, it expels sand from its nostrils."
+msgstr "Il est principalement actif pendant la journée. Il s’enfouit profondément dans le sable pour dormir, car les nuits désertiques sont très froides."
+
+#: app.py:34
+msgid "Short-tempered and easily moved to violence. It whips up whirlwinds of sand to crush its foes' spirits, then goes in for the attack."
+msgstr "Il entre dans une violente colère quand on l’énerve : il expulse le sable qu’il a accumulé pour provoquer de véritables tempêtes."
+
+#: app.py:34
+msgid "Its claws are not only razor-sharp but poisonous, making Skorupi a highly dangerous Pokémon. It seems to be weakened by cold temperatures, however."
+msgstr "Il attaque avec les pinces empoisonnées de sa queue. Le venin se répand alors dans le corps de la victime et la paralyse."
+
+#: app.py:34
+msgid "Has a brutish, ferocious temperament. With immense strength and a sturdy shell off which swords will bounce, it rampages about and wreaks havoc."
+msgstr "Sa férocité lui a valu le surnom de « démon du désert », mais face à un Hippodocus, il est parfaitement docile et évite de le provoquer."
+
+#: app.py:34
+msgid "A poison wielder with a dastardly personality. Despite such qualities, this species is afforded a measure of popularity due to its peculiar cry and comical features."
+msgstr "Dilué, son poison sert de remède. Cela lui a valu de devenir la mascotte populaire d’une entreprise de produits pharmaceutiques."
+
+#: app.py:34
+msgid "Its crimson claws contain a virulent toxin. This toxin can be made into a tonic by diluting it, mixing it with several types of wild grass, and boiling it down over two days."
+msgstr "Il lance un coassement viril de victoire quand il parvient à terrasser sa proie. Il s’apparente aux Crapustule."
+
+#: app.py:34
+msgid "Though this is a plant Pokémon, it has a gluttonous and unruly temperament. Carnivine attacks its prey with its cavernous maw wide open."
+msgstr "Il s’accroche aux arbres des marais et attire ses proies avec sa salive à l’odeur enivrante."
+
+#: app.py:34
+msgid "What a gorgeous sight this Pokémon is as it swims with its long, pink-painted caudal fins fluttering behind it. Finneon's beautiful appearance has led to its nickname: ”finery fish.”"
+msgstr "Il attire ses proies avec ses nageoires caudales lumineuses. Il passe la journée à la surface et se retire dans les abysses la nuit venue."
+
+#: app.py:34
+msgid "Uses its gleaming fins to hunt its prey. The view of Lumineon schooling near the surface of the sea at night is breathtaking— it's as though there were shining stars right there."
+msgstr "Il se déplace en rampant dans les profondeurs de l’océan. Ses nageoires brillent telles des étoiles dans le ciel nocturne."
+
+#: app.py:34
+msgid "Though ball-like in shape, this Pokémon is a proficient swimmer. I have discovered that if a Mantyke spends much time with schools of Remoraid, it will eventually achieve evolution."
+msgstr "Il nage au sein des bancs de Rémoraid. Lorsqu’un prédateur les attaque, il se bat à leurs côtés."
+
+#: app.py:34
+msgid "One is likely to encounter this Pokémon while out in the snow. There are stories of Snover appearing in human settlements but doing no harm—rather, they bond with the children."
+msgstr "Les Baies en forme de crèmes glacées qui poussent sur son ventre sont le mets favori des Darumarond vivant à Galar."
+
+#: app.py:34
+msgid "A powerful Pokémon that can split huge boulders with ease. Dislikes associating with others and chooses to live quietly deep within the mountains, playing with the snow."
+msgstr "Ce grand Pokémon déclenche des blizzards. Lorsqu’il agite son corps, tout ce qui l’entoure se retrouve couvert de neige."
+
+#: app.py:34
+msgid "This species corners prey as a pack, under the guidance of a leader. Weavile displays increased cunning, leading me to speculate that its evolution caused further brain development."
+msgstr "Il communique avec ses semblables en gravant des motifs avec ses griffes. Il existerait près de 500 signes différents."
+
+#: app.py:34
+msgid "I theorize that a special magnetic field influenced this Pokémon, changing its molecular structure and causing it to evolve. It emits strange radio waves toward space from its antenna."
+msgstr "On pense qu’il a évolué après avoir été exposé à un champ magnétique particulier qui a modifié la structure moléculaire de son corps."
+
+#: app.py:34
+msgid "Its tongue can extend and contract freely, and it is capable of reaching lengths over 10 times Lickilicky's height. Beware of the saliva, as it contains corrosive elements."
+msgstr "Il est aussi habile avec sa langue que les êtres humains le sont avec leurs mains. En revanche, il est maladroit quand il utilise ses doigts."
+
+#: app.py:34
+msgid "This Pokémon evolved through use of a curious item. Its rocklike hide is composed of a mysterious substance and can withstand a blow from a masterwork sword with nary a scratch."
+msgstr "Il repousse les attaques avec ses Protecteurs et profite du moment où l’adversaire est déstabilisé pour le transpercer avec sa vrille, dont il est fier."
+
+#: app.py:34
+msgid "Draped with long vines, it resembles a shrub in appearance. It swings bundles of vines as though they were arms, wrapping them around prey to ensnare them."
+msgstr "Ses lianes poussent plus rapidement s’il vit sous un climat chaud. Quand elles deviennent trop longues, il se les coupe."
+
+#: app.py:34
+msgid "Its evolution was induced by an unusual item, and its electrical output rises along with its heart rate. From its tails, it can unleash an electric current measuring 20,000 volts."
+msgstr "La quantité d’électricité qu’il génère est énorme, même pour un Pokémon Électrik. Il inflige de fortes décharges du bout de ses queues."
+
+#: app.py:34
+msgid "Use of a strange item caused this Pokémon to evolve. Fireballs launched from the ends of its tubelike arms are hot enough to melt an iron pot in an instant."
+msgstr "Au fil du temps, son corps est devenu similaire à un volcan, et un de ses organes ressemble désormais à une chambre magmatique."
+
+#: app.py:34
+msgid "Scant few have ever sighted this Pokémon. After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns in the land."
+msgstr "On dit que ce Pokémon dispense ses bienfaits, ce qui explique pourquoi il est représenté sur les porte-bonheurs depuis fort longtemps."
+
+#: app.py:34
+msgid "Extremely violent. When hunting, it wastes none of its energy, aiming only for prey's most vulnerable spots. Any who manage to tame this Pokémon must be of incredible bravery."
+msgstr "Il peut voler avec aise tout en portant un adulte dans ses six pattes. Les ailes de sa queue lui servent de balancier."
+
+#: app.py:34
+msgid "Cells similar to those of plants have been found in its fur. Its hard tail can fell a large tree with one stroke, and the tail's sharpness exceeds even that of a sword crafted by a master."
+msgstr "Grâce à sa queue aussi effilée qu’une lame, il est capable de fendre en deux des arbres immenses."
+
+#: app.py:34
+msgid "Glaceon is able to lower its body temperature very quickly. It freezes the atmosphere, creating diamond dust that glitters like gems while it flutters and dances around."
+msgstr "Ce Pokémon exhale un vent glacial qui crée une neige poudreuse. Sa présence est très appréciée dans les stations de ski."
+
+#: app.py:34
+msgid "It glides soundlessly on pitch-black wings and sinks sharp fangs into the throat of its prey. It takes on a look of satisfaction once it has entirely drained its prey of blood."
+msgstr "Il vole sans un bruit, et capture ses proies avec sa queue pour leur infliger une morsure critique."
+
+#: app.py:34
+msgid "This species reached its zenith during the period known as the ice age. I suspect that Hisui's frigid climate is in harmony with Mamoswine's constitution, thus awakening hidden potential."
+msgstr "Comme son physique le laisse deviner, il est très fort. La taille de ses défenses de glace augmente à mesure que la température baisse."
+
+#: app.py:34
+msgid "A curious item induced this evolution. The Pokémon's offensive capabilities have greatly increased, but the strangeness of its behavior has magnified in equal measure. This worries me."
+msgstr "On dit qu’un nouveau programme l’a fait évoluer, mais les avis des scientifiques divergent quant à savoir s’il s’agit réellement d’une évolution."
+
+#: app.py:34
+msgid "The blades extending from its elbows are sharper than the finest swords. Its swordsmanship, albeit self-taught, is astonishingly impressive."
+msgstr "Ses sens aiguisés lui indiquent lorsque quelqu’un est en danger. Il accourt alors à la rescousse."
+
+#: app.py:34
+msgid "It is able to emit powerful magnetism, allowing it control over the iron sand that forms its luscious mustache. Using this iron sand, Probopass forms hard stones with which it smites its prey."
+msgstr "Il utilise ses trois petites unités pour combattre ses ennemis et capturer ses proies. Le reste de son corps se contente de donner des ordres."
+
+#: app.py:34
+msgid "Comes to those whose lives have come to an end and escorts their souls to the afterlife. Known to mistakenly take the souls of those who yet have life left in them, albeit rarely."
+msgstr "Il dévore l’âme de ses ennemis en les engloutissant dans sa bouche ventrale. Il recrache ensuite leur enveloppe corporelle."
+
+#: app.py:34
+msgid "A Pokémon inhabited by the soul of a woman who died bearing a grudge in the snowy mountains. Legends of Froslass placing deathly curses on misbehaving men send shivers down my spine."
+msgstr "Il gèle ses proies avec son souffle à - 50 °C, les amène dans son antre, puis les y aligne avec soin."
+
+#: app.py:34
+msgid "This bizarre Pokémon appears to be a will-o'-the-wisp powered by electricity. Be wary, as Rotom is both smart and mischievous."
+msgstr "Son corps composé de plasma lui permet d’infiltrer diverses machines. Il adore surprendre les gens."
+
+#: app.py:34
+msgid "A Pokémon feared but also respected for stealing away the memories of evildoers. I have found records that suggest Uxie holds dominion over knowledge."
+msgstr "On dit que sa venue a fourni aux humains le bon sens nécessaire pour améliorer leur existence."
+
+#: app.py:34
+msgid "Known as the Being of Emotion. In legend, this Pokémon was feared, as any who showed disrespect would have their emotions thrown into disarray."
+msgstr "Il dort au fond d’un lac. On dit que son esprit abandonne son corps pour voler à sa surface."
+
+#: app.py:34
+msgid "The dreaded Being of Willpower. Legends tell of this Pokémon manipulating the will of its adversaries and turning them into puppets of its own."
+msgstr "On raconte que Créhelf, Créfollet et Créfadet proviennent du même Œuf."
+
+#: app.py:34
+msgid "This Pokémon is revered as a deity in Hisuian legend. The birth of Dialga was what caused the vast river of time to begin flowing in our world."
+msgstr "Il peut contrôler le temps. Les mythes de Sinnoh en parlent comme d’une divinité ancienne."
+
+#: app.py:34
+msgid "This Pokémon is feared as a deity in Hisuian legend. The birth of Palkia was what caused the walls of our world to disappear, creating a sky that spans for infinity."
+msgstr "Il peut modeler l’espace. Les mythes de Sinnoh en parlent comme d’une divinité ancienne."
+
+#: app.py:34
+msgid "Stories tell of this Pokémon being birthed from the boiling magma within Mount Coronet. Its molten-steel body holds many mysteries."
+msgstr "Le sang de ce Pokémon des cratères bouillonne dans son corps comme du magma."
+
+#: app.py:34
+msgid "According to legend, Regigigas pulled landmasses together and bound them with rope to create the continent of Hisui. Though I have my doubts, the story could well contain a shred of truth."
+msgstr "On raconte qu’après avoir créé des Pokémon avec différentes matières, il aurait placé les continents à leur position actuelle."
+
+#: app.py:34
+msgid "There is one Hisuian verse that tells of a powerful light creating a deep shadow. I imagine that this deep shadow is Giratina."
+msgstr "Sa grande violence lui a valu d’être banni. Il observe les hommes en silence depuis le Monde Distorsion."
+
+#: app.py:34
+msgid "Cresselia is reminiscent of the crescent moon. It leaves a brilliant line of light in its wake as it flies across the night sky. I daresay it resembles the heavenly maiden who created the Milky Way."
+msgstr "Dormir avec une de ses plumes à la main permet de faire de beaux rêves. On le surnomme « avatar du croissant de lune »."
+
+#: app.py:34
+msgid "Can be seen floating offshore during seasons when the seas are warm. Its azure body blends in with the ocean waters—logic suggests this is a defense mechanism against natural predators."
+msgstr "Ce Pokémon des mers chaudes revient toujours à son lieu de naissance, peu importe la distance."
+
+#: app.py:34
+msgid "Rumored to migrate across the oceans and visit Hisui's coastal waters only rarely. Although Manaphy resembles Phione, it is also quite different. The relation between the two is unclear."
+msgstr "Il possède l’étrange pouvoir de s’entendre avec n’importe quel Pokémon."
+
+#: app.py:34
+msgid "On a moonless night, a strange incident occurred in which every one of a village's inhabitants suffered nightmares. The villagers attested that Darkrai appeared before them in these nightmares."
+msgstr "Il a la capacité de bercer les gens pour les faire rêver. Il se montre durant les nuits de nouvelle lune."
+
+#: app.py:34
+msgid "When the turning of seasons brings the cruel winter to its end and the joyous people give thanks to the heavens, Shaymin appears and covers the withered land with flowers."
+msgstr "Il prend son essor pour répandre la gratitude lorsque les Gracidées fleurissent."
+
+#: app.py:34
+msgid "It is the heavenly fount from which pours the light that shines across Hisui. Its luminance guides and protects all Pokémon. Hisuian mythology states that Arceus is the creator of all things."
+msgstr "Dans la mythologie, ce Pokémon existait déjà avant la formation de l’univers."
+
+#: app.py:34
+msgid "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power."
+msgstr "L’énergie sans limites qu’il produit donne une force incroyable à ceux qui entrent en contact avec elle."
+
+#: app.py:34
+msgid "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop."
+msgstr "Il laisse sa queue prendre le soleil pour sa photosynthèse. Quand il est malade, sa queue pend tristement."
+
+#: app.py:34
+msgid "When it gets dirty, its leaves can’t be used in photosynthesis, so it always keeps itself clean."
+msgstr "La saleté l’empêchant d’utiliser la photosynthèse, il prend grand soin d’être toujours propre."
+
+#: app.py:34
+msgid "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally."
+msgstr "Il peut paralyser l’ennemi d’un regard. Il amplifie l’énergie du soleil dans son corps."
+
+#: app.py:34
+msgid "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp."
+msgstr "Il adore se goinfrer de Baies grillées, mais il lui arrive de les réduire en cendres dans son excitation."
+
+#: app.py:34
+msgid "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke."
+msgstr "Quand le feu dans son corps s’embrase, sa vitesse et son agilité augmentent. En cas d’urgence, il crache de la fumée."
+
+#: app.py:34
+msgid "It has mastered fast and powerful fighting moves. It grows a beard of fire."
+msgstr "Il a une barbe enflammée. Il maîtrise des techniques de combat au corps à corps rapides et puissantes."
+
+#: app.py:34
+msgid "This Pokémon from the Unova region uses the shell on its belly as a weapon to cut down its foes. Thus, I've conferred upon this shell the name ”scalchop”."
+msgstr "Il combat avec le coupillage de son ventre. Il peut parer un assaut et immédiatement contre-attaquer."
+
+#: app.py:34
+msgid "Its exquisite double-scalchop technique is likely the result of daily training, and it can send even masters of the blade fleeing in defeat."
+msgstr "Chaque Mateloutre a sa propre technique d’escrime au coupillage, acquise grâce à un entraînement drastique."
+
+#: app.py:34
+msgid "Hard of heart and deft of blade, this rare form of Samurott is a product of the Pokémon's evolution in the region of Hisui. Its turbulent blows crash into foes like ceaseless pounding waves."
+msgstr "Il peut terrasser ses ennemis d’un coup de la lame enchâssée dans son armure, et les faire taire d’un seul regard."
+
+#: app.py:34
+msgid "Extremely cautious, one of them will always be on the lookout, but it won’t notice a foe coming from behind."
+msgstr "Très prudent, il surveille attentivement son territoire, mais oublie souvent de regarder derrière lui."
+
+#: app.py:34
+msgid "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches."
+msgstr "Il attaque en crachant les graines des Baies qu’il accumule dans ses bajoues. S’il voit un ennemi, il dresse la queue."
+
+#: app.py:34
+msgid "This Pokémon is far brighter than the average child, and Lillipup won’t forget the love it receives or any abuse it suffers."
+msgstr "Ce Pokémon est plus intelligent que la plupart des enfants. Il n’oublie ni l’affection qu’il a reçue ni les mauvais traitements qu’il a pu subir."
+
+#: app.py:34
+msgid "The black fur that covers this Pokémon’s body is dense and springy. Even sharp fangs bounce right off."
+msgstr "Les poils sombres qui recouvrent son dos sont si épais et si souples qu’ils peuvent même repousser des crocs acérés."
+
+#: app.py:34
+msgid "Stoutland is immensely proud of its impressive moustache. It’s said that moustache length is what determines social standing among this species."
+msgstr "Sa moustache remarquable fait sa fierté, car sa longueur permettrait de déterminer la hiérarchie au sein de l’espèce."
+
+#: app.py:34
+msgid "Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter."
+msgstr "Malheur à qui se laisse berner par ses gestes adorables : une fois les gens à sa portée, il les griffe sans crier gare, en ricanant."
+
+#: app.py:34
+msgid "This stealthy Pokémon sneaks up behind prey without making any sound at all. It competes with Thievul for territory."
+msgstr "Sans un bruit, il approche ses victimes par-derrière pour les frapper. Il dispute son territoire avec les Roublenard."
+
+#: app.py:34
+msgid "It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends."
+msgstr "Il est très doué pour trouver des Baies et aime les partager avec ses amis sans rien demander en échange."
+
+#: app.py:34
+msgid "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter."
+msgstr "Il a un tempérament violent et se bat avec sa queue pleine d’épines. La feuille sur sa tête est très amère."
+
+#: app.py:34
+msgid "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit."
+msgstr "Il vit dans les cratères des volcans. L’intérieur de la mèche qu’il a sur la tête peut atteindre 300 °C."
+
+#: app.py:34
+msgid "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets."
+msgstr "Quand il est excité, des flammèches brûlantes dansent sur sa tête et sa queue. Il raffole des choses sucrées."
+
+#: app.py:34
+msgid "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large."
+msgstr "L’eau contenue dans la mèche sur sa tête est pleine de nutriments. Elle fait pousser les plantes avec vigueur."
+
+#: app.py:34
+msgid "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+msgstr "Il aime les endroits où l’eau est pure. Il se ravitaille en eau en l’aspirant avec sa queue."
+
+#: app.py:34
+msgid "It eats dreams and releases mist. The mist is pink when it’s eating a good dream, and black when it’s eating a nightmare."
+msgstr "Il se nourrit de songes et expire de la fumée qui prend la couleur rose si le rêve est joyeux, ou noire s’il s’agit d’un cauchemar."
+
+#: app.py:34
+msgid "It drowses and dreams all the time. It’s best to leave it be if it’s just woken up, as it’s a terrible grump when freshly roused from sleep."
+msgstr "Il est sans cesse assoupi, plongé dans ses rêves. Il vaut mieux éviter de le déranger, car il est toujours mal luné au réveil."
+
+#: app.py:34
+msgid "It’s forgetful and not very bright, but many Trainers love it anyway for its friendliness and sincerity."
+msgstr "Il n’est pas très malin et un peu distrait, mais beaucoup de Dresseurs l’apprécient pour son caractère affectueux et sa bonne volonté."
+
+#: app.py:34
+msgid "These bright Pokémon have acute memories. Apparently delivery workers often choose them as their partners."
+msgstr "Il est intelligent et possède une bonne mémoire. On raconte que les livreurs le choisissent souvent comme partenaire."
+
+#: app.py:34
+msgid "This Pokémon is intelligent and intensely proud. People will sit up and take notice if you become the Trainer of one."
+msgstr "Ce Pokémon est aussi intelligent qu’il est arrogant. Les Dresseurs de Déflaisan sont tenus en haute estime."
+
+#: app.py:34
+msgid "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate."
+msgstr "Sa crinière luit quand il lâche des décharges. Il module leur rythme et leur nombre pour communiquer avec ses pairs."
+
+#: app.py:34
+msgid "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates."
+msgstr "Il réagit à la vitesse de l’éclair. Lorsqu’il est en plein galop, on peut entendre le grondement du tonnerre."
+
+#: app.py:34
+msgid "When it detects a noise, it starts to move. The energy core inside it makes this Pokémon slightly warm to the touch."
+msgstr "Il se déplace en réagissant aux sons environnants. Son noyau d’énergie rend son corps légèrement chaud au toucher."
+
+#: app.py:34
+msgid "It relies on sound in order to monitor what’s in its vicinity. When angered, it will attack without ever changing the direction it’s facing."
+msgstr "Il sonde les environs grâce au son. Lorsqu’un importun le met en colère, il se lance à sa poursuite sans changer l’orientation de son corps."
+
+#: app.py:34
+msgid "Although its energy blasts can blow away a dump truck, they have a limitation— they can only be fired when the sun is out."
+msgstr "Il est capable d’envoyer des boules d’énergie assez puissantes pour balayer un camion-benne, mais il ne peut tirer que les jours ensoleillés."
+
+#: app.py:34
+msgid "It emits ultrasonic waves as it flutters about, searching for its prey—bug Pokémon."
+msgstr "Il virevolte gaiement et émet des ultrasons pour trouver des Pokémon Insecte à grignoter."
+
+#: app.py:34
+msgid "The auspicious shape of this Pokémon’s nose apparently led some regions to consider Swoobat a symbol of good luck."
+msgstr "Certaines contrées le vénèrent et pensent que la forme de son nez est un symbole de chance et de bonheur."
+
+#: app.py:34
+msgid "It’s a digger, using its claws to burrow through the ground. It causes damage to vegetable crops, so many farmers have little love for it."
+msgstr "Les cultivateurs le détestent, car il abîme leurs légumes en creusant la terre avec ses griffes."
+
+#: app.py:34
+msgid "Known as the Drill King, this Pokémon can tunnel through the terrain at speeds of over 90 mph."
+msgstr "On l’appelle le « roi de la vrille ». Il creuse la terre à une vitesse pouvant atteindre 150 km/h."
+
+#: app.py:34
+msgid "This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures’ feelings and physical conditions."
+msgstr "Ce Pokémon gentil est capable de deviner les émotions et l’état de santé des autres rien qu’en les touchant avec ses antennes."
+
+#: app.py:34
+msgid "Timburr that have started carrying logs that are about three times their size are nearly ready to evolve."
+msgstr "Lorsque Charpenti est capable de soulever une poutre faisant trois fois son poids, le jour de son évolution est proche."
+
+#: app.py:34
+msgid "Gurdurr excels at demolition—construction is not its forte. In any case, there’s skill in the way this Pokémon wields its metal beam."
+msgstr "Il manie la poutre métallique avec habileté. Il est doué pour démanteler une bâtisse, mais peu adroit lorsqu’il s’agit d’en construire une."
+
+#: app.py:34
+msgid "When going all out, this Pokémon throws aside its concrete pillars and leaps at opponents to pummel them with its fists."
+msgstr "Quand il décide de passer aux choses sérieuses, il jette ses piliers de béton et saute sur son adversaire pour le frapper du poing."
+
+#: app.py:34
+msgid "It uses sound waves to communicate with others of its kind. People and other Pokémon species can’t hear its cries of warning."
+msgstr "Il communique avec ses compagnons en émettant des ondes. Son cri d’alerte est inaudible pour les humains et les autres Pokémon."
+
+#: app.py:34
+msgid "On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds."
+msgstr "Il lui arrive de pousser des cris ravissants. Plus ses protubérances sont grosses, plus le son porte loin."
+
+#: app.py:34
+msgid "This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages."
+msgstr "Ce Pokémon est un excellent masseur grâce aux vibrations de ses pustules. Les personnes âgées l’apprécient particulièrement."
+
+#: app.py:34
+msgid "They train in groups of five. Any member that can’t keep up will discard its belt and leave the group."
+msgstr "Ils s’entraînent intensément par groupes de cinq. Ceux qui ne peuvent pas suivre le rythme abandonnent leur ceinture et se retirent."
+
+#: app.py:34
+msgid "The karate chops of a Sawk that’s trained itself to the limit can cleave the ocean itself."
+msgstr "Après avoir suivi un entraînement intensif, la puissance du tranchant de sa main est telle qu’il peut fendre la mer en deux."
+
+#: app.py:34
+msgid "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers."
+msgstr "La mascotte des créateurs de mode. Il découpe ses vêtements dans les feuilles qu’il trouve."
+
+#: app.py:34
+msgid "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests."
+msgstr "Il se protège du froid en s’emmitouflant dans une feuille. Il se déplace en forêt et mange les feuilles tombées par terre."
+
+#: app.py:34
+msgid "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle."
+msgstr "Il réchauffe les Œufs avec la chaleur de l’humus. Il fabrique des langes pour les Larveyette avec des feuilles."
+
+#: app.py:34
+msgid "Its fangs are highly venomous. If this Pokémon finds prey it thinks it can eat, it leaps for them without any thought of how things might turn out."
+msgstr "Ses crocs sont extrêmement venimeux. Dès qu’il voit une proie à son goût, il bondit sur elle sans penser aux conséquences."
+
+#: app.py:34
+msgid "Whirlipede protects itself with a sturdy shell and poisonous spikes while it stores up the energy it’ll need for evolution."
+msgstr "Il se protège avec sa solide carapace et ses épines empoisonnées tandis qu’il rassemble l’énergie nécessaire à son évolution."
+
+#: app.py:34
+msgid "Scolipede engage in fierce territorial battles with Centiskorch. At the end of one of these battles, the victor makes a meal of the loser."
+msgstr "Il défend son territoire avec acharnement contre son ennemi Scolocendre. Le perdant sert de dîner au vainqueur."
+
+#: app.py:34
+msgid "Weaving together the cotton of both Cottonee and Eldegoss produces exquisite cloth that’s highly prized by many luxury brands."
+msgstr "Les marques de luxe utilisent les étoffes splendides issues du mélange des cotons de Doudouvet et de Blancoton."
+
+#: app.py:34
+msgid "As long as this Pokémon bathes in sunlight, its cotton keeps growing. If too much cotton fluff builds up, Whimsicott tears it off and scatters it."
+msgstr "Son coton se met à gonfler sous les rayons du soleil. Quand il est trop volumineux, il s’effiloche et se répand aux alentours."
+
+#: app.py:34
+msgid "The leaves on its head are highly valued for medicinal purposes. Dry the leaves in the sun, boil them, and then drink the bitter decoction for remarkably effective relief from fatigue."
+msgstr "Plus ses feuilles sont foncées, plus il est en bonne santé. Il s’installe parfois dans les champs ou les parterres de fleurs bien entretenus."
+
+#: app.py:34
+msgid "I suspect that its well-developed legs are the result of a life spent on mountains covered in deep snow. The scent it exudes from its flower crown heartens those in proximity."
+msgstr "L’huile essentielle extraite de sa fleur dégage un parfum exceptionnel, mais elle coûte extrêmement cher."
+
+#: app.py:34
+msgid "Though it differs from other Basculin in several respects, including demeanor—this one is gentle—I have categorized it as a regional form given the vast array of shared qualities."
+msgstr "On l’utilisait autrefois en cuisine. La chair grasse des Bargantua à motif rouge était plutôt destinée aux jeunes."
+
+#: app.py:34
+msgid "Sandile is small, but its legs and lower body are powerful. Pushing sand aside as it goes, Sandile moves through the desert as if it’s swimming."
+msgstr "Malgré son petit gabarit, il a beaucoup de force dans les pattes arrière. Il parcourt le désert comme s’il nageait dans le sable."
+
+#: app.py:34
+msgid "Although this Pokémon has specialized eyes that allow it to see in the dark, Krokorok won’t move much at night—the desert gets cold after sunset."
+msgstr "Bien que ses yeux particuliers lui permettent de voir dans l’obscurité, les nuits sont si froides dans le désert qu’il ne se déplace presque pas."
+
+#: app.py:34
+msgid "While terribly aggressive, Krookodile also has the patience to stay hidden under sand for days, lying in wait for prey."
+msgstr "Il aime la violence, mais sait aussi se montrer patient lorsqu’il doit passer plusieurs jours dans le sable à attendre une proie."
+
+#: app.py:34
+msgid "This popular symbol of good fortune will never fall over in its sleep, no matter how it’s pushed or pulled."
+msgstr "On a beau le pousser ou le tirer, quand il dort, rien ne le fait vaciller. Cette qualité lui a valu de devenir un emblème pour les porte-bonheurs."
+
+#: app.py:34
+msgid "This Pokémon’s power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit."
+msgstr "Sa puissance augmente à mesure que la flamme de son corps s’intensifie. La température de celle-ci peut parfois dépasser les 1 400 °C."
+
+#: app.py:34
+msgid "Once each year, this Pokémon scatters its seeds. They’re jam-packed with nutrients, making them a precious food source out in the desert."
+msgstr "Il sème les graines de ses fleurs une fois par an. Celles-ci abondent en nutriments et représentent une denrée précieuse dans le désert."
+
+#: app.py:34
+msgid "It first tries to find a rock to live in, but if there are no suitable rocks to be found, Dwebble may move in to the ports of a Hippowdon."
+msgstr "S’il ne trouve pas de bon caillou à creuser pour s’y loger, il élit domicile dans un des trous du corps d’Hippodocus."
+
+#: app.py:34
+msgid "Its thick claws are its greatest weapons. They’re mighty enough to crack Rhyperior’s carapace."
+msgstr "Ses meilleures armes sont ses pinces. Elles sont si dures qu’elles peuvent ébrécher les Protecteurs de Rhinastoc."
+
+#: app.py:34
+msgid "It protects itself with its durable skin. It’s thought that this Pokémon will evolve once its skin has completely stretched out."
+msgstr "Il se protège grâce à sa peau robuste. On dit que quand celle-ci ne peut plus s’étirer davantage, c’est qu’il est sur le point d’évoluer."
+
+#: app.py:34
+msgid "While mostly known for having the temperament of an aggressive ruffian, this Pokémon takes very good care of its family, friends, and territory."
+msgstr "Il est de nature violente, mais au fond de lui, il tient à sa famille, à ses amis et à son territoire."
+
+#: app.py:34
+msgid "A discovery was made in the desert where Sigilyph fly. The ruins of what may have been an ancient city were found beneath the sands."
+msgstr "En fouillant sous le sable du désert survolé par Cryptéro, on a retrouvé les vestiges de ce que l’on croit être une ville antique."
+
+#: app.py:34
+msgid "The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face."
+msgstr "Il est né de l’âme d’un être humain d’un peuple antique. Il erre dans les ruines à la recherche de quiconque reconnaîtra son visage."
+
+#: app.py:34
+msgid "There are many depictions of Cofagrigus decorating ancient tombs. They’re symbols of the wealth that kings of bygone eras had."
+msgstr "On le voit souvent représenté sur les murs des vieilles sépultures des rois en tant que symbole de leur richesse."
+
+#: app.py:34
+msgid "Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil."
+msgstr "Ancêtre présumé de nombreuses espèces de Pokémon tortues, il a été restauré à partir d’un fossile."
+
+#: app.py:34
+msgid "This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land."
+msgstr "Bien qu’il soit moins à l’aise sur terre que dans l’eau, il s’aventure sur le rivage pour se nourrir."
+
+#: app.py:34
+msgid "Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon."
+msgstr "On dit que c’est l’ancêtre des Pokémon oiseaux. Il vivait à la cime des arbres et se nourrissait de Baies et de Pokémon Insecte."
+
+#: app.py:34
+msgid "Though capable of flight, Archeops was apparently better at hunting on the ground."
+msgstr "Il savait voler, mais il semble qu’il était beaucoup plus doué pour chasser ses proies sur la terre ferme."
+
+#: app.py:34
+msgid "This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish."
+msgstr "Il est né d’un sac poubelle rempli d’ordures. Le gaz empoisonné qu’il exhale est très apprécié des Smogogo de Galar."
+
+#: app.py:34
+msgid "The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly."
+msgstr "Le liquide qu’il projette de son bras droit est si toxique que si une créature fragile en est aspergée, elle succombe sur-le-champ."
+
+#: app.py:34
+msgid "A once-departed soul, returned to life in Hisui. Derives power from resentment, which rises as energy atop its head and takes on the forms of foes. In this way, Zorua vents lingering malice."
+msgstr "Il lui arrive de se changer en être humain, surtout en enfant, pour venir chercher de la nourriture en ville."
+
+#: app.py:34
+msgid "With its disheveled white fur, it looks like an embodiment of death. Heedless of its own safety, Zoroark attacks its nemeses with a bitter energy so intense, it lacerates Zoroark's own body."
+msgstr "Les Dresseurs en manque de compagnie ordonnent à Zoroark de leur montrer une illusion pour tromper leur solitude."
+
+#: app.py:34
+msgid "They pet each other with their tails as a form of greeting. Of the two, the one whose tail is fluffier is a bit more boastful."
+msgstr "Les Chinchidou se saluent en se frottant la queue. Celui qui a la plus volumineuse en tire une certaine fierté."
+
+#: app.py:34
+msgid "A special oil that seeps through their fur helps them avoid attacks. The oil fetches a high price at market."
+msgstr "La sécrétion huileuse de ses poils lui permet de dévier les attaques. Elle s’arrache à prix d’or sur les marchés."
+
+#: app.py:34
+msgid "Even when nobody seems to be around, Gothita can still be heard making a muted cry. Many believe it’s speaking to something only it can see."
+msgstr "Parfois, ce Pokémon chuchote alors qu’il n’y a personne aux alentours. On raconte qu’il parle à une entité que personne ne peut voir."
+
+#: app.py:34
+msgid "On nights when the stars shine, this Pokémon’s psychic power is at its strongest. It’s unknown just what link Gothorita has to the greater universe."
+msgstr "Ses pouvoirs psychiques semblent atteindre leur paroxysme pendant les nuits étoilées, mais nul ne sait s’il a un rapport avec l’espace."
+
+#: app.py:34
+msgid "A criminal who was shown his fate by a Gothitelle went missing that same day and was never seen again."
+msgstr "Les criminels à qui Sidérella a révélé les derniers instants de leur vie ont tous été portés disparus le jour même."
+
+#: app.py:34
+msgid "Many say that the special liquid covering this Pokémon’s body would allow it to survive in the vacuum of space."
+msgstr "On raconte que le curieux fluide qui entoure le corps de ce Pokémon lui permet de survivre dans l’espace."
+
+#: app.py:34
+msgid "Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable."
+msgstr "Étant donné que ses deux cerveaux sont rarement sur la même longueur d’onde, il est impossible de prédire son comportement."
+
+#: app.py:34
+msgid "It’s said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself."
+msgstr "S’il ne s’agissait pas d’un poison violent que seul Symbios peut boire, son curieux fluide pourrait, selon les dires, rendre plus intelligent."
+
+#: app.py:34
+msgid "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+msgstr "Un Pokémon doué pour la plongée qui passe son temps sous l’eau à chercher des sphaignes, son plat préféré."
+
+#: app.py:34
+msgid "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock."
+msgstr "Ils se mettent à danser à la tombée de la nuit. Le Lakmécygne qui danse au centre est le chef de la troupe."
+
+#: app.py:34
+msgid "Supposedly, this Pokémon was born from an icicle. It spews out freezing air at −58 degrees Fahrenheit to make itself more comfortable."
+msgstr "On raconte qu’il est né de stalactites. Il gèle les alentours en soufflant de l’air à - 50 °C pour améliorer son confort."
+
+#: app.py:34
+msgid "It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it’s a kind Pokémon."
+msgstr "Bien qu’il gèle ses ennemis en soufflant de l’air à - 100 °C, sa gentillesse l’empêche de leur ôter la vie."
+
+#: app.py:34
+msgid "People believe this Pokémon formed when two Vanillish stuck together. Its body temperature is roughly 21 degrees Fahrenheit."
+msgstr "La température de son corps est d’environ - 6 °C. On raconte que ce Pokémon naît lorsque deux Sorboul se collent l’un à l’autre."
+
+#: app.py:34
+msgid "The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons."
+msgstr "Quand la saison change, il change de pelage et d’odeur. Un Pokémon qui annonce le passage des saisons."
+
+#: app.py:34
+msgid "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+msgstr "Il change d’habitat selon les saisons. Certains disent même qu’il est celui qui apporte le printemps."
+
+#: app.py:34
+msgid "This Pokémon absolutely loves sweet berries. Sometimes it stuffs its cheeks full of so much food that it can’t fly properly."
+msgstr "Les Baies sucrées sont son péché mignon. Il lui arrive d’en conserver beaucoup trop dans ses bajoues, ce qui l’empêche de bien planer."
+
+#: app.py:34
+msgid "It spits a liquid from its mouth to melt through Shelmet’s shell. Karrablast doesn’t eat the shell— it eats only the contents."
+msgstr "Il crache un liquide qui dissout les coquilles des Escargaume pour se régaler de leur contenu."
+
+#: app.py:34
+msgid "It charges its enemies, lances at the ready. An image of one of its duels is captured in a famous painting of Escavalier clashing with Sirfetch’d."
+msgstr "Il charge ses ennemis en brandissant ses lances. Il existe un célèbre tableau représentant la joute entre un Lançargot et un Palarticho."
+
+#: app.py:34
+msgid "The spores released from this Pokémon’s hands are highly poisonous, but when thoroughly dried, the spores can be used as stomach medicine."
+msgstr "Les spores qu’il libère de ses mains sont très toxiques, mais si on les sèche bien, elles peuvent soulager les maux de ventre."
+
+#: app.py:34
+msgid "Amoonguss generally doesn’t move much. It tends to stand still near Poké Balls that have been dropped on the ground."
+msgstr "Ce Pokémon a tendance à très peu se déplacer. Quand il voit une Poké Ball abandonnée au sol, il reste immobile à côté."
+
+#: app.py:34
+msgid "Legend has it that the residents of a sunken ancient city changed into these Pokémon."
+msgstr "Certaines légendes racontent que les Viskuse sont les habitants d’une ancienne cité engloutie qui ont été changés en Pokémon."
+
+#: app.py:34
+msgid "Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear."
+msgstr "Les nuits de pleine lune, ils se réunissent à la surface de la mer pour attendre leurs proies."
+
+#: app.py:34
+msgid "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola."
+msgstr "On pense qu’il protège les Pokémon affaiblis parce qu’il partage avec eux les mêmes prédateurs."
+
+#: app.py:34
+msgid "Joltik latch on to other Pokémon and suck out static electricity. They’re often found sticking to Yamper’s hindquarters."
+msgstr "Il s’accroche aux autres Pokémon pour aspirer leur électricité statique. On en trouve souvent collés au postérieur de Voltoutou."
+
+#: app.py:34
+msgid "It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying."
+msgstr "Il piège les oisillons qui ne savent pas encore voler en tissant une toile électrique près des nids des Pokémon oiseaux."
+
+#: app.py:34
+msgid "Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed’s spikes grow big and strong."
+msgstr "Il aime les grottes pleines de mousse. Les enzymes contenues dans ces plantes l’aident à obtenir des épines grandes et solides."
+
+#: app.py:34
+msgid "Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone."
+msgstr "Ses épines sont plus solides que l’acier. Il plante celles de ses tentacules dans les parois rocheuses pour se déplacer."
+
+#: app.py:34
+msgid "It’s suspected that Klink were the inspiration behind ancient people’s invention of the first gears."
+msgstr "Les humains auraient inventé les mécanismes à engrenages il y a fort longtemps, en observant ce Pokémon."
+
+#: app.py:34
+msgid "Many companies in the Galar region choose Klang as their logo. This Pokémon is considered the symbol of industrial technology."
+msgstr "Ce Pokémon symbolisant la technologie industrielle est souvent utilisé dans le logo des entreprises de Galar."
+
+#: app.py:34
+msgid "The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn’t a living creature."
+msgstr "Bien que son nouveau rouage à pointes ne soit pas doué de vie, il parvient à le faire tourner à grande vitesse avec les deux autres."
+
+#: app.py:34
+msgid "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock."
+msgstr "Tout seul, il ne dégage pas beaucoup d’électricité. Mais un banc d’Anchwatt produit des décharges surpuissantes."
+
+#: app.py:34
+msgid "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity."
+msgstr "Un Pokémon doté d’un gros appétit. Il paralyse ses proies avec des décharges électriques avant de les manger."
+
+#: app.py:34
+msgid "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean."
+msgstr "Il peut sortir de l’eau à la force de ses bras pour attraper des proies sur la rive. Il retourne à l’eau en un instant."
+
+#: app.py:34
+msgid "This Pokémon was discovered about 50 years ago. Its highly developed brain enables it to exert its psychic powers."
+msgstr "Ce Pokémon a été découvert il y a environ 50 ans. Son cerveau surdéveloppé lui permet d’utiliser ses pouvoirs psychiques avec aisance."
+
+#: app.py:34
+msgid "Sometimes found drifting above wheat fields, this Pokémon can control the memories of its opponents."
+msgstr "Il peut manipuler les souvenirs de son adversaire à loisir. Parfois, on l’aperçoit en train de vagabonder au-dessus des champs de blé."
+
+#: app.py:34
+msgid "The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns."
+msgstr "Plus les victimes dont il aspire l’énergie vitale sont jeunes, plus sa flamme grandit et luit lugubrement."
+
+#: app.py:34
+msgid "It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them."
+msgstr "Il se cache en ville en se faisant passer pour un lampadaire. Lorsqu’il repère une personne dont l’heure est proche, il la suit en catimini."
+
+#: app.py:34
+msgid "In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence— or so it’s said."
+msgstr "On raconte que dans les manoirs éclairés par des Lugulabre, les funérailles s’enchaînent sans discontinuer."
+
+#: app.py:34
+msgid "They play with each other by knocking their large tusks together. Their tusks break sometimes, but they grow back so quickly that it isn’t a concern."
+msgstr "Il joue avec ses congénères à se donner de grands coups de crocs. Peu importe s’ils se cassent : ils repousseront aussitôt."
+
+#: app.py:34
+msgid "Its skin is as hard as a suit of armor. Fraxure’s favorite strategy is to tackle its opponents, stabbing them with its tusks at the same time."
+msgstr "Son épiderme est dur comme une armure. Il est passé maître dans l’art de charger l’ennemi tout en le transperçant de ses crocs."
+
+#: app.py:34
+msgid "While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries."
+msgstr "D’un naturel doux, il est cependant redoutable lorsqu’il se fâche. Il est très fier de ses crocs qui peuvent même découper des poutres d’acier."
+
+#: app.py:34
+msgid "It sniffles before performing a move, using its frosty snot to provide an icy element to any move that needs it."
+msgstr "Il renifle avant d’utiliser une capacité. Le froid intense contenu dans sa morve lui permet de lancer les capacités de type Glace."
+
+#: app.py:34
+msgid "It swims energetically through frigid seas. When it gets tired, it freezes the seawater with its breath so it can rest on the ice."
+msgstr "Il sillonne les mers glaciales avec aisance. Quand il est fatigué, il gèle l’eau de mer d’un souffle et se repose sur l’iceberg improvisé."
+
+#: app.py:34
+msgid "When the weather gets hot, these Pokémon turn into water vapor. Cryogonal are almost never seen during summer."
+msgstr "Lorsqu’il fait trop chaud, il s’évapore, ce qui explique pourquoi on ne le voit presque pas en été."
+
+#: app.py:34
+msgid "It has a strange physiology that responds to electricity. When together with Karrablast, Shelmet evolves for some reason."
+msgstr "Il a l’étrange faculté de réagir à l’énergie électrique. On ne sait trop pourquoi, mais quand il se trouve aux côtés de Carabing, il évolue."
+
+#: app.py:34
+msgid "Discarding its shell made it nimble. To keep itself from dehydrating, it wraps its body in bands of membrane."
+msgstr "Il est bien plus agile sans sa coquille. La membrane en forme de bandelettes qui l’entoure l’empêche de se dessécher."
+
+#: app.py:34
+msgid "For some reason, this Pokémon smiles slightly when it emits a strong electric current from the yellow markings on its body."
+msgstr "Lorsque les parties jaunes de son corps envoient une puissante décharge électrique, il ébauche un sourire. Personne ne sait pourquoi."
+
+#: app.py:34
+msgid "Though small, Mienfoo’s temperament is fierce. Any creature that approaches Mienfoo carelessly will be greeted with a flurry of graceful attacks."
+msgstr "De nature brutale malgré sa petite taille, il inflige une série de coups majestueux aux inconscients qui s’approchent trop près de lui."
+
+#: app.py:34
+msgid "Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces."
+msgstr "Ses coups de pied ultrarapides et invisibles à l’œil nu peuvent réduire un énorme rocher en poussière."
+
+#: app.py:34
+msgid "Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs."
+msgstr "Féroce et perfide, Drakkarmin s’approprie les terriers creusés par d’autres Pokémon pour en faire son antre."
+
+#: app.py:34
+msgid "This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day."
+msgstr "Ce Pokémon fait d’argile continue de respecter les ordres que son maître lui a donnés il y a quelques millénaires."
+
+#: app.py:34
+msgid "There’s a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn’t been proven."
+msgstr "Son énergie viendrait d’un mécanisme à mouvement perpétuel interne, mais jusqu’à présent, personne n’en a la preuve."
+
+#: app.py:34
+msgid "A pack of these Pokémon forms to serve a Bisharp boss. Each Pawniard trains diligently, dreaming of one day taking the lead."
+msgstr "Il vit en meute, sous les ordres d’un Scalproie. Il s’entraîne sans relâche en rêvant du jour où il sera chef de meute à son tour."
+
+#: app.py:34
+msgid "Violent conflicts erupt between Bisharp and Fraxure over places where sharpening stones can be found."
+msgstr "Sa recherche des meilleurs endroits où trouver des pierres pour affûter ses lames le conduit souvent à affronter des Incisache."
+
+#: app.py:34
+msgid "These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason."
+msgstr "Les Frison vivent en troupeau d’une vingtaine d’individus. Pour une raison inconnue, si l’un d’eux trahit le groupe, il perd sa crinière."
+
+#: app.py:34
+msgid "Its chick-like looks belie its hotheadedness. It challenges its parents at every opportunity, desperate to prove its strength."
+msgstr "Sa poigne est telle qu’il peut réduire en miettes les plus dures des Baies. Belliqueux de nature, il n’hésite pas à défier tout le monde."
+
+#: app.py:34
+msgid "Screaming a bloodcurdling battle cry, this huge and ferocious bird Pokémon goes out on the hunt. It blasts lakes with shock waves, then scoops up any prey that float to the water's surface."
+msgstr "Son caractère agressif et violent lui a valu de perdre son rôle de transporteur à Galar au profit de Corvaillus."
+
+#: app.py:34
+msgid "Vullaby grow quickly. Bones that have gotten too small for older Vullaby to wear often get passed down to younger ones in the nest."
+msgstr "Il grandit vite. Au sein du nid, les petits Vostourno héritent des couches en crâne de leurs aînés."
+
+#: app.py:34
+msgid "They adorn themselves with bones. There seem to be fashion trends among them, as different bones come into and fall out of popularity."
+msgstr "Il se pare d’ossements qu’il a ramassés. Il semblerait qu’il choisisse la forme des os qu’il porte selon les dernières tendances."
+
+#: app.py:34
+msgid "A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides."
+msgstr "Il se sert de sa flamme comme d’une langue. Il fait fondre peu à peu l’exosquelette des Fermite pour se délecter de leur chair."
+
+#: app.py:34
+msgid "With their large mandibles, these Pokémon can crunch their way through rock. They work together to protect their eggs from Sandaconda."
+msgstr "Sa grande mâchoire réduit même les rochers en miettes. Il se bat avec sa colonie pour protéger ses Œufs des attaques des Dunaconda."
+
+#: app.py:34
+msgid "Because it can’t see, this Pokémon is constantly biting at everything it touches, trying to keep track of its surroundings."
+msgstr "Comme il ne voit rien, il se repère en mâchouillant tout ce qui se trouve autour de lui."
+
+#: app.py:34
+msgid "Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others."
+msgstr "Ses deux têtes se disputent la même proie. Il est toujours couvert de blessures, même s’il n’a affronté personne."
+
+#: app.py:34
+msgid "The three heads take turns sinking their teeth into the opponent. Their attacks won’t slow until their target goes down."
+msgstr "Chacune de ses trois têtes mord à tour de rôle. Il attaque ses adversaires sans relâche, jusqu’à ce qu’ils s’écroulent."
+
+#: app.py:34
+msgid "Larvesta’s body is warm all over. It spouts fire from the tips of its horns to intimidate predators and scare prey."
+msgstr "La température de son corps est très élevée. Il projette des flammes du bout de ses cornes pour intimider ses ennemis et ses proies."
+
+#: app.py:34
+msgid "This Pokémon emerges from a cocoon formed of raging flames. Ancient murals depict Volcarona as a deity of fire."
+msgstr "Né d’un cocon enflammé, ce Pokémon apparaît sur d’anciennes fresques représenté comme une divinité du feu."
+
+#: app.py:34
+msgid "From the moment it’s born, this Pokémon radiates the air of a leader. Its presence will calm even vicious foes."
+msgstr "Dès la naissance, il a un air de chef. Même le plus terrible des adversaires file doux face à lui."
+
+#: app.py:34
+msgid "In Unovan legend, Terrakion battled against humans in an effort to protect other Pokémon."
+msgstr "Selon une légende d’Unys, Terrakium se serait jadis dressé contre les humains pour protéger les Pokémon."
+
+#: app.py:34
+msgid "It darts around opponents with a flurry of quick movements, slicing them up with its horns."
+msgstr "Rapide comme le vent, il s’abat tel un tourbillon sur ses ennemis avant de les transpercer sans pitié de ses cornes acérées."
+
+#: app.py:34
+msgid "This storm-stirring Pokémon is said to cause the seasons to turn by whipping up the air. I suspect its humanlike form to be a false one."
+msgstr "L’énergie dégagée par sa queue provoque d’énormes tempêtes dont la force peut renverser des maisons."
+
+#: app.py:34
+msgid "They say this wielder of electricity has waged war with its nemesis, Tornadus, since time immemorial. The lightning bolts it hurls pierce the very earth and enrich the soil."
+msgstr "Il vole dans le ciel d’Unys et fait tomber des éclairs, provoquant des incendies qui font sa mauvaise réputation."
+
+#: app.py:34
+msgid "According to myth, if people ignore truth and let themselves become consumed by greed, Reshiram will arrive to burn their kingdoms down."
+msgstr "Selon un mythe, lorsque les gens ne font aucun cas de la Réalité et s’abandonnent à la cupidité, Reshiram rase le pays entier avec ses flammes."
+
+#: app.py:34
+msgid "Mythology tells us that if people lose the righteousness in their hearts, their kingdoms will be razed by Zekrom’s lightning."
+msgstr "Selon la légende, lorsque les gens perdent tout sens de ce qui est juste, Zekrom réduit le pays entier en cendres avec de terribles éclairs."
+
+#: app.py:34
+msgid "When the incarnations of wind and of lightning clash, Landorus arrives to quell the conflict. After the tempests and thunderbolts abate, the land is sure to be blessed with bountiful harvests."
+msgstr "Il utilise l’énergie qu’il tire du vent et de la foudre pour enrichir les sols en nutriments pour les cultures."
+
+#: app.py:34
+msgid "It appears that this Pokémon uses its powers over ice to freeze its own body in order to stabilize its cellular structure."
+msgstr "Il se serait congelé lui-même avec son souffle glacé pour stabiliser sa structure cellulaire."
+
+#: app.py:34
+msgid "They say that Keldeo must survive harsh battles and fully develop the horn on its forehead before this Pokémon’s true power will awaken."
+msgstr "Lorsqu’il livre un combat difficile, la corne sur son front se renforce et se développe, ce qui éveillerait sa véritable puissance."
+
+#: app.py:34
+msgid "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it."
+msgstr "Sa voix si particulière lui permet de chanter des mélodies qui ensorcellent les gens et modifient leurs émotions."
